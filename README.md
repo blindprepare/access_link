@@ -2,18 +2,18 @@
 
 1、「美团-鲜花外卖」的场景演示
 
-![美团demo展示](https://github.com/blindprepare/access_link/tree/main/gif/meituan_demo.gif) 
+![美团demo展示](https://github.com/blindprepare/access_link/blob/main/gif/meituan_demo.gif) 
 
 2、「QQ邮箱-搜索通讯录联系人发邮件」的场景演示
 
-![QQ邮箱demo展示](https://github.com/blindprepare/access_link/tree/main/gif/qqmail_demo.gif) 
+![QQ邮箱demo展示](https://github.com/blindprepare/access_link/blob/main/gif/qqmail_demo.gif) 
 
 3、「QQ音乐-本地节目播放」的场景演示
 
-![QQ音乐demo展示](https://github.com/blindprepare/access_link/tree/main/gif/qqmusic_demo.gif)
+![QQ音乐demo展示](https://github.com/blindprepare/access_link/blob/main/gif/qqmusic_demo.gif)
 
 4、「支付宝-转账到银行卡」的场景演示
 
-![支付宝demo展示](https://github.com/blindprepare/access_link/tree/main/gif/alipay_demo.gif) 
+![支付宝demo展示](https://github.com/blindprepare/access_link/blob/main/gif/alipay_demo.gif) 
 
 上述演示动图均可以在videos中找到相应mp4源文件
