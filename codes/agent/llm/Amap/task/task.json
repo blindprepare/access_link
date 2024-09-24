@@ -1,0 +1,1654 @@
+{
+  "tasks": [
+    {
+      "query": "我想在高德地图上找到一家海底捞并分享给朋友，我需要怎么操作？",
+      "function": "搜索位置并分享",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "海底捞"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "分享位置",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在高德地图中搜索万达广场，并将搜索结果分享在微信群里，怎么做？",
+      "function": "搜索位置并分享",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "万达广场"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "分享位置",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如果我想在高德地图上定位当代艺术馆，并把位置发给我朋友，应该怎么操作呢？",
+      "function": "搜索位置并分享",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "当代艺术馆"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "分享位置",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在高德地图中找到南翔古镇的详细介绍，该怎么操作？",
+      "function": "搜索位置并查看介绍",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "南翔古镇"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "查看位置介绍",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "使用高德地图搜索顾村公园并了解它的详细信息，应该怎么做？",
+      "function": "搜索位置并查看介绍",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "顾村公园"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "查看位置介绍",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "高德地图里如何搜索并查阅中华艺术宫的介绍？",
+      "function": "搜索位置并查看介绍",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "中华艺术宫"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "查看位置介绍",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何在高德地图中找到一家海底捞并启动导航?",
+      "function": "搜索并导航到目的地",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "海底捞"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "导航",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "导航页面",
+          "instruct": "前往目的地",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想知道如何用高德地图搜索东方明珠并向那里出发?",
+      "function": "搜索并导航到目的地",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "东方明珠"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "导航",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "导航页面",
+          "instruct": "前往目的地",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请指导我如何在高德地图上寻找并导航至外滩?",
+      "function": "搜索并导航到目的地",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "外滩"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "导航",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "导航页面",
+          "instruct": "前往目的地",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在高德地图上搜索环球港然后查看到那里的详细路线信息",
+      "function": "搜索并查看路线信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "环球港"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "查看路线信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何在高德地图上找到一条从我的当前位置到中华艺术宫的详细路线",
+      "function": "搜索并查看路线信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "中华艺术宫"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "查看路线信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要使用高德地图查找徐家汇，并获取前往那里的各种路线建议.",
+      "function": "搜索并查看路线信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "徐家汇"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "查看路线信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想知道如何在高德地图上滴水湖并开始导航",
+      "function": "搜索并选择合适路线后开始导航",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "滴水湖"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "开始导航",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我通过高德地图如何搜索动物园并获取前往该地的路线",
+      "function": "搜索并选择合适路线后开始导航",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "动物园"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "开始导航",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要了解在高德地图中搜索鲁迅公园并选择最佳路线以便出发的整个步骤。",
+      "function": "搜索并选择合适路线后开始导航",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "鲁迅公园"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "开始导航",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想知道如何在高德地图上搜索南京东路并查看它的周边信息",
+      "function": "搜索周边信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "南京东路"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "周边",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "周边信息页面",
+          "instruct": "查看周边信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我怎样在高德地图中找到上海图书馆的详细信息，然后了解其周边信息",
+      "function": "搜索周边信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "上海图书馆"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "周边",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "周边信息页面",
+          "instruct": "查看周边信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "高德地图里面怎么搜索真如古镇，然后查看这个地点的周边信息呢？",
+      "function": "搜索周边信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "真如古镇"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "周边",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "周边信息页面",
+          "instruct": "查看周边信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想要在高德地图上找到中山公园然后叫一辆车去那里",
+      "function": "搜索地址并开始打车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "中山公园"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索打车页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "怎么通过高德地图搜索虹桥火车站并且安排一次打车呢?",
+      "function": "搜索地址并开始打车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "虹桥火车站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索打车页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "使用高德地图应该如何快速找到南京路步行街并且打车前往？",
+      "function": "搜索地址并开始打车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "南京路步行街"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索打车页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我今天要前往桃浦公园，想知道怎么用高德地图查看详细路线",
+      "function": "公交路线查询",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "桃浦公园"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "查看路线信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如果我想查找到美罗城的详细路线，高德地图上该如何操作呢?",
+      "function": "公交路线查询",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "美罗城"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "查看路线信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我打算前往静安寺，想查看详细路线信息",
+      "function": "公交路线查询",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "静安寺"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "查看路线信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在高德地图里，我如何能找到陆家嘴地铁站的信息并将这个信息分享出去?",
+      "function": "搜索并分享公交线路",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "陆家嘴地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "分享位置",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我怎样在高德地图中搜索并导航到长江南路地铁站?",
+      "function": "公交路线导航",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "长江南路地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "导航",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "导航页面",
+          "instruct": "前往目的地",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在高德地图上找到南京东路地铁站并导航到目的地，该如何操作？",
+      "function": "公交路线导航",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "南京东路地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "导航",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "导航页面",
+          "instruct": "前往目的地",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想知道怎么在高德地图上查找虹桥枢纽10路",
+      "function": "查询公交路线信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "虹桥枢纽10路"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "查看路线信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问在高德地图上如何搜索嘉定10路",
+      "function": "查询公交路线导航",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "嘉定10路"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "导航",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "导航页面",
+          "instruct": "前往目的地",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要帮助，使用高德地图怎样选出去金沙江路地铁站的最适合我的公交路线并进行实时导航呢？",
+      "function": "查询公交路线导航",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "金沙江路地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "开始导航",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在高德地图里面找到淮海中路地铁站的详细信息包括其周边信息，具体操作步骤是什么?",
+      "function": "查询公交线路周边信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "淮海中路地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "周边",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "周边信息页面",
+          "instruct": "查看周边信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "使用高德地图搜索真如地铁站周边信息，我应该怎么做呢?",
+      "function": "查询公交线路周边信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "真如地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "周边",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索打车页面",
+          "instruct": "查看周边信息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何在高德地图上查找江苏路地铁站然后进行打车操作?",
+      "function": "查询公交路线并打车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "江苏路地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索打车页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如果我想通过高德地图找到国权路地铁站并请求打车，应该如何操作?",
+      "function": "查询公交路线并打车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "国权路地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索打车页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在高德地图上，我该如何查找长寿路地铁站，并在找到目标站点后直接打车呢?",
+      "function": "查询公交路线并打车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "长寿路地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索打车页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请指导我使用高德地图查找并导航到七宝地铁站的公交路线。",
+      "function": "实时公交线路查询导航",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "七宝地铁站"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "路线",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息页面",
+          "instruct": "选择合适路线信息",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "路线信息详情页面",
+          "instruct": "开始导航",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用高德地图预约一辆前往世纪公园的出租车，要怎么操作？",
+      "function": "预约出租车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车页面",
+          "instruct": "点击搜索终点",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "世纪公园"
+        },
+        {
+          "pageName": "打车搜索页面",
+          "instruct": "筛选搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车搜索结果页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": " 请问如何在高德地图里预约一辆前往江苏路地铁站的出租车？",
+      "function": "预约出租车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车页面",
+          "instruct": "点击搜索终点",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "江苏路地铁站"
+        },
+        {
+          "pageName": "打车搜索页面",
+          "instruct": "筛选搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车搜索结果页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想去人民广场，在高德地图里如何预约出租车？",
+      "function": "预约出租车",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车页面",
+          "instruct": "点击搜索终点",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "人民广场"
+        },
+        {
+          "pageName": "打车搜索页面",
+          "instruct": "筛选搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车搜索结果页面",
+          "instruct": "开始打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    }
+  ]
+}

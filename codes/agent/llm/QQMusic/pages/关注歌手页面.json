@@ -1,0 +1,17 @@
+{
+  "pageName": "关注歌手页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌手页面"
+    },
+    {
+      "action": "选择歌手",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "歌手歌曲页面"
+    }
+  ]
+}

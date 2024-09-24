@@ -1,0 +1,1300 @@
+{
+  "tasks": [
+    {
+      "query": "我想搜索一封包含通知的邮件来读",
+      "function": "搜索并阅读电子邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件搜索页面",
+          "instruct": "输入邮件信息",
+          "action": "type",
+          "parameter": "通知"
+        },
+        {
+          "pageName": "邮件搜索页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件搜索详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要我的邮箱内容里检索毕业论文",
+      "function": "搜索并阅读电子邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件搜索页面",
+          "instruct": "输入邮件信息",
+          "action": "type",
+          "parameter": "毕业论文"
+        },
+        {
+          "pageName": "邮件搜索页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件搜索详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我搜索邮件中包含开学的信息，我需要阅读它",
+      "function": "搜索并阅读电子邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件搜索页面",
+          "instruct": "输入邮件信息",
+          "action": "type",
+          "parameter": "开学"
+        },
+        {
+          "pageName": "邮件搜索页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件搜索详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在通讯录中找到猪猪并给他发邮件",
+      "function": "从通讯录中筛选联系人并写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "输入联系人",
+          "action": "type",
+          "parameter": "猪猪"
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人详情页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "给联系人写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "从QQ邮箱首页怎么找到通讯录里的老板然后写邮件给他？",
+      "function": "从通讯录中筛选联系人并写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "输入联系人",
+          "action": "type",
+          "parameter": "老板"
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人详情页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "给联系人写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要搜索李老师后给他写封邮件，应该怎么做？",
+      "function": "从通讯录中筛选联系人并写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "输入联系人",
+          "action": "type",
+          "parameter": "李老师"
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人详情页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "给联系人写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在QQ邮箱中找到和李老师的往来邮件",
+      "function": "筛选联系人往来邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "输入联系人",
+          "action": "type",
+          "parameter": "李老师"
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人详情页面",
+          "instruct": "往来邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人往来邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人往来邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "能不能帮我在QQ邮箱里搜索然后筛选查看和老板的所有邮件往来",
+      "function": "筛选联系人往来邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "输入联系人",
+          "action": "type",
+          "parameter": "老板"
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人详情页面",
+          "instruct": "往来邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人往来邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人往来邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要在QQ邮箱里找出跟孙同学的往来邮件并读取其中一封.",
+      "function": "筛选联系人往来邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "输入联系人",
+          "action": "type",
+          "parameter": "孙同学"
+        },
+        {
+          "pageName": "联系人搜索页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人详情页面",
+          "instruct": "往来邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人往来邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "联系人往来邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想要筛选我的收件箱里的邮件然后阅读一下",
+      "function": "筛选并阅读收件箱邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收件箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收件箱页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要查找收件箱中特定的邮件，请帮我筛选出来",
+      "function": "筛选并阅读收件箱邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收件箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收件箱页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我从收件箱中筛选邮件，我要读一下邮件内容.",
+      "function": "筛选并阅读收件箱邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收件箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收件箱页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想从收件箱页面进入写封新邮件，该怎么操作呢",
+      "function": "写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收件箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收件箱页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "告诉我怎样在QQ邮箱里面从收件箱页面写一封邮件",
+      "function": "写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收件箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收件箱页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要发送一封新邮件",
+      "function": "写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收件箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收件箱页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想查看我的星标邮件中特定的一封",
+      "function": "筛选并阅读星标邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "星标邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "帮我找出星标邮件并阅读它",
+      "function": "筛选并阅读星标邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "星标邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请教我如何在星标邮件里筛选出我想读的邮件。",
+      "function": "筛选并阅读星标邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "星标邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在星标邮件里写封新邮件",
+      "function": "星标邮件中写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "星标邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件页面",
+          "instruct": "星标邮件写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何在星标邮件中撰写一封新的邮件?",
+      "function": "星标邮件中写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "星标邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件页面",
+          "instruct": "星标邮件写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要在星标邮件页面写一封新邮件",
+      "function": "星标邮件中写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "星标邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件页面",
+          "instruct": "星标邮件写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "星标邮件写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想要给筛选出来的通讯录联系人写封邮件",
+      "function": "筛选通讯录联系人写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人详情页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "给通讯录联系人写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我如何在QQ邮箱筛选联系人然后给他们发邮件",
+      "function": "筛选通讯录联系人写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人详情页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "给通讯录联系人写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要找到特定的联系人并给他发一封邮件，怎么操作呢？",
+      "function": "筛选通讯录联系人写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人详情页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "给通讯录联系人写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想查找特定联系人的往来邮件阅读一下",
+      "function": "筛选特定联系人往来邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人详情页面",
+          "instruct": "往来邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人往来邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人往来邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "能不能帮我筛选出与某个联系人之间的邮件记录？",
+      "function": "筛选特定联系人往来邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人详情页面",
+          "instruct": "往来邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人往来邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人往来邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要阅读我和某位联系人之前的往来邮件。",
+      "function": "筛选特定联系人往来邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "通讯录",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录页面",
+          "instruct": "筛选联系人",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人详情页面",
+          "instruct": "往来邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人往来邮件页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "通讯录联系人往来邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要检查我之前发送过的特定邮件",
+      "function": "筛选并阅读已发送邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已发送",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "帮我从已发送邮件里筛选一封邮件出来阅读",
+      "function": "筛选并阅读已发送邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已发送",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想要在已发送的邮件里面找一封特定的邮件来读一下",
+      "function": "筛选并阅读已发送邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已发送",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想要编辑一封我已经发送过的邮件",
+      "function": "重新编辑已发送邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已发送",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "怎样可以重新写一封类似于我先前已发送出去的邮件?",
+      "function": "重新编辑已发送邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已发送",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要修改一个已经发送的邮件内容，该怎么操作呢？",
+      "function": "重新编辑已发送邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已发送",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已发送写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想查看我的草稿箱里有哪些邮件",
+      "function": "筛选草稿箱邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "草稿箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我筛选一下草稿箱里的邮件，我想阅读它们",
+      "function": "筛选草稿箱邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "草稿箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "打开QQ邮箱，我需要从草稿里挑选一封邮件来阅读",
+      "function": "筛选草稿箱邮件阅读",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "草稿箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在草稿箱里写封邮件",
+      "function": "在草稿箱编写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "草稿箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我如何在草稿箱页面开始编写邮件",
+      "function": "在草稿箱编写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "草稿箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "怎样从草稿箱页面进入写邮件环节",
+      "function": "在草稿箱编写邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "草稿箱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "草稿箱写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想要查看我删除的邮件，请帮我筛选一下",
+      "function": "筛选并阅读已删除邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已删除",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "删除了一封邮件后悔了，如何找回来阅读?",
+      "function": "筛选并阅读已删除邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已删除",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请教怎么快速筛选出删除的邮件内容？需要阅读一封重要邮件。",
+      "function": "筛选并阅读已删除邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已删除",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除页面",
+          "instruct": "筛选邮件",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除邮件详情页面",
+          "instruct": "阅读邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在已删除邮件里面直接写一封新邮件",
+      "function": "已删除邮件中撰写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已删除",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我误删了一封邮件后想立刻撰写邮件，如何操作？",
+      "function": "已删除邮件中撰写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已删除",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "能不能在查看已删除邮件的页面直接写邮件？",
+      "function": "已删除邮件中撰写新邮件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "已删除",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除页面",
+          "instruct": "写邮件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "已删除写邮件页面",
+          "instruct": "写邮件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    }
+  ]
+}

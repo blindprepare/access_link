@@ -1,0 +1,29 @@
+{
+  "pageName": "本地下载视频详情页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人详情页面"
+    },
+    {
+      "action": "选择视频播放",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "本地下载视频详情页面"
+    },
+    {
+      "action": "点击节目",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "本地下载节目详情页面"
+    },
+    {
+      "action": "点击本地歌曲",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "本地下载详情页面"
+    }
+  ]
+}

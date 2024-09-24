@@ -1,0 +1,17 @@
+{
+  "pageName": "导航页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面"
+    },
+    {
+      "action": "前往目的地",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "导航页面"
+    }
+  ]
+}

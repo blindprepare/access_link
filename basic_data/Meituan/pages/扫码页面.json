@@ -1,0 +1,35 @@
+{
+  "pageName": "扫码页面",
+  "page": "com.meituan.android.scan.NewArActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,3,1,0,1"
+    },
+    {
+      "action": "扫码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "扫码页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击发现",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "发现页面",
+      "path": "0,0,0,0,0,3,1,0,4,0,1"
+    },
+    {
+      "action": "点击扫药品",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫药品页面",
+      "path": "0,0,0,0,0,3,1,0,4,0,2"
+    }
+  ]
+}

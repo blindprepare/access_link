@@ -1,0 +1,47 @@
+{
+  "pageName": "个人页面",
+  "actionList": [
+    {
+      "action": "首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "理财",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "理财页面"
+    },
+    {
+      "action": "生活",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "生活页面"
+    },
+    {
+      "action": "消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面"
+    },
+    {
+      "action": "我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人页面"
+    },
+    {
+      "action": "账单",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "账单页面"
+    },
+    {
+      "action": "余额",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "余额页面"
+    }
+  ]
+}

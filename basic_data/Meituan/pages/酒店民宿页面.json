@@ -1,0 +1,42 @@
+{
+  "pageName": "酒店民宿页面",
+  "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0"
+    },
+    {
+      "action": "当前位置",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,2,0"
+    },
+    {
+      "action": "位置搜索",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "位置搜索页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0"
+    },
+    {
+      "action": "搜索酒店民宿",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿搜索页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,4"
+    },
+    {
+      "action": "点击订单",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿订单页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,2,2,0,1"
+    }
+  ]
+}

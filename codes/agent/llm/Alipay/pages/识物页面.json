@@ -1,0 +1,53 @@
+{
+  "pageName": "识物页面",
+  "actionList": [
+    {
+      "action": "识万物",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面"
+    },
+    {
+      "action": "识车牌",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面"
+    },
+    {
+      "action": "翻译",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面"
+    },
+    {
+      "action": "识商品",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面"
+    },
+    {
+      "action": "识植物",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面"
+    },
+    {
+      "action": "识动物",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面"
+    },
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "扫描物体",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面"
+    }
+  ]
+}

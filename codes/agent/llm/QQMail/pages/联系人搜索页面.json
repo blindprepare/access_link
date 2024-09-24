@@ -1,0 +1,23 @@
+{
+  "pageName": "联系人搜索页面",
+  "actionList": [
+    {
+      "action": "取消",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "输入联系人",
+      "type": "输入动作",
+      "parameter": "联系人信息",
+      "nextPage": "联系人搜索页面"
+    },
+    {
+      "action": "筛选联系人",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人详情页面"
+    }
+  ]
+}

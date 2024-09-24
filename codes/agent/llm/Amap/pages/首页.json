@@ -1,0 +1,17 @@
+{
+  "pageName": "首页",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面"
+    }
+  ]
+}

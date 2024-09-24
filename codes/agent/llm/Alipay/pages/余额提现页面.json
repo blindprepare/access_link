@@ -1,0 +1,23 @@
+{
+  "pageName": "余额提现页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "余额页面"
+    },
+    {
+      "action": "提现金额",
+      "type": "输入动作",
+      "parameter": "输入提现金额",
+      "nextPage": "余额提现页面"
+    },
+    {
+      "action": "确认提现",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "余额提现页面"
+    }
+  ]
+}

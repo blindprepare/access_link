@@ -1,0 +1,21 @@
+{
+  "pageName": "支付宝荷包页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,2,1,0"
+    },
+    {
+      "action": "荷包类型",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,1,2,1,0,0,1,0,1,0,0,0"
+    }
+  ]
+}

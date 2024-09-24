@@ -1,0 +1,42 @@
+{
+  "pageName": "首页",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,6,0,0,0,2,0,0,0,1,0"
+    },
+    {
+      "action": "公交地铁",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁页面",
+      "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0"
+    },
+    {
+      "action": "实时公交",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交页面",
+      "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0"
+    },
+    {
+      "action": "驾车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,2,0"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面",
+      "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,3,0"
+    }
+  ]
+}

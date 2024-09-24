@@ -1,0 +1,35 @@
+{
+  "pageName": "本地下载节目详情页面",
+  "page": "com.tencent.qqmusic.activity.AppStarterActivity",
+  "package": "com.tencent.qqmusic",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人详情页面",
+      "path": "0,0,0,1,1,1,0,0,0"
+    },
+    {
+      "action": "选择节目播放",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "本地下载节目详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击视频",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "本地下载视频详情页面",
+      "path": "0,0,0,1,1,1,0,0,1,0,2,0"
+    },
+    {
+      "action": "点击本地歌曲",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "本地下载详情页面",
+      "path": "0,0,0,1,1,1,0,0,1,0,0,0"
+    }
+  ]
+}

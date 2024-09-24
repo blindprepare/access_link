@@ -1,0 +1,23 @@
+{
+  "pageName": "已删除页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除邮件详情页面"
+    },
+    {
+      "action": "写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除写邮件页面"
+    }
+  ]
+}

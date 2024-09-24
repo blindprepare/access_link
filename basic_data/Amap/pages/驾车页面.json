@@ -1,0 +1,49 @@
+{
+  "pageName": "驾车页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "点击输入终点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "输入驾车终点页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,1,0,1,1"
+    },
+    {
+      "action": "点击驾车轨迹",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车轨迹页面",
+      "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,7,0"
+    },
+    {
+      "action": "限行查询",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询页面",
+      "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,0"
+    },
+    {
+      "action": "停车推荐",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "停车推荐页面",
+      "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,5"
+    },
+    {
+      "action": "通行费助手",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通行费助手页面",
+      "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,7"
+    }
+  ]
+}

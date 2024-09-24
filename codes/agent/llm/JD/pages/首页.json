@@ -1,0 +1,41 @@
+{
+  "pageName": "首页",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面"
+    },
+    {
+      "action": "点击扫啊扫",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫啊扫页面"
+    },
+    {
+      "action": "点击京东拍照",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京东拍照页面"
+    },
+    {
+      "action": "点击购物车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "购物车页面"
+    },
+    {
+      "action": "点击我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面"
+    },
+    {
+      "action": "点击消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面"
+    }
+  ]
+}

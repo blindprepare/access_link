@@ -1,0 +1,17 @@
+{
+  "pageName": "打车页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "点击搜索终点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车搜索页面"
+    }
+  ]
+}

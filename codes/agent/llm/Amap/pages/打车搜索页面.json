@@ -1,0 +1,23 @@
+{
+  "pageName": "打车搜索页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面"
+    },
+    {
+      "action": "输入搜索内容",
+      "type": "输入动作",
+      "parameter": "搜索内容",
+      "nextPage": "打车搜索页面"
+    },
+    {
+      "action": "筛选搜索结果",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "打车搜索结果页面"
+    }
+  ]
+}

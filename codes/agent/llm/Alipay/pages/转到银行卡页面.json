@@ -1,0 +1,29 @@
+{
+  "pageName": "转到银行卡页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面"
+    },
+    {
+      "action": "姓名",
+      "type": "输入动作",
+      "parameter": "输入收款人姓名",
+      "nextPage": "转到银行卡页面"
+    },
+    {
+      "action": "卡号",
+      "type": "输入动作",
+      "parameter": "输入收款人卡号",
+      "nextPage": "转到银行卡页面"
+    },
+    {
+      "action": "下一步",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "银行卡实际转账页面"
+    }
+  ]
+}

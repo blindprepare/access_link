@@ -1,0 +1,71 @@
+{
+  "pageName": "首页",
+  "actionList": [
+    {
+      "action": "扫一扫",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫一扫页面"
+    },
+    {
+      "action": "收付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收付款页面"
+    },
+    {
+      "action": "出行",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "出行页面"
+    },
+    {
+      "action": "卡包",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "卡包页面"
+    },
+    {
+      "action": "支付宝荷包",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "支付宝荷包页面"
+    },
+    {
+      "action": "转账",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面"
+    },
+    {
+      "action": "首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "理财",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "理财页面"
+    },
+    {
+      "action": "生活",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "生活页面"
+    },
+    {
+      "action": "消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面"
+    },
+    {
+      "action": "我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人页面"
+    }
+  ]
+}

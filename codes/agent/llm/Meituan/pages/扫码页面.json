@@ -1,0 +1,29 @@
+{
+  "pageName": "扫码页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "扫码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "扫码页面"
+    },
+    {
+      "action": "点击发现",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "发现页面"
+    },
+    {
+      "action": "点击扫药品",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫药品页面"
+    }
+  ]
+}

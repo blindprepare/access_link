@@ -1,0 +1,41 @@
+{
+  "pageName": "扫一扫页面",
+  "actionList": [
+    {
+      "action": "收付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收付款页面"
+    },
+    {
+      "action": "相册",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "相册页面"
+    },
+    {
+      "action": "扫码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "扫一扫页面"
+    },
+    {
+      "action": "识物",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面"
+    },
+    {
+      "action": "AR",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "AR页面"
+    },
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    }
+  ]
+}

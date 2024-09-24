@@ -1,0 +1,70 @@
+{
+  "pageName": "交易物流页面",
+  "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,0"
+    },
+    {
+      "action": "查看交易物流",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "交易物流页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击清除消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面",
+      "path": "0,0,0,2,0,2"
+    },
+    {
+      "action": "点击我的预约",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的预约页面",
+      "path": "0,0,0,2,0,3"
+    },
+    {
+      "action": "点击客服消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,3,0,0,0,0,0"
+    },
+    {
+      "action": "点击服务通知",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "服务通知页面",
+      "path": "0,0,0,3,1,0,0,0,2,1"
+    },
+    {
+      "action": "点击互动消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "互动消息页面",
+      "path": "0,0,0,3,1,0,0,0,3,2"
+    },
+    {
+      "action": "点击京东快讯",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京东快讯页面",
+      "path": "0,0,0,3,1,0,0,0,4,2"
+    },
+    {
+      "action": "点击优惠促销",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠促销页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    }
+  ]
+}

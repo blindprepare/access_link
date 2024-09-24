@@ -1,0 +1,28 @@
+{
+  "pageName": "草稿箱页面",
+  "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱邮件详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱写邮件页面",
+      "path": "0,0,0,0,0,0,0,0,0,2"
+    }
+  ]
+}

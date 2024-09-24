@@ -1,0 +1,35 @@
+{
+  "pageName": "播放歌曲页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "收藏/取消收藏",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "播放歌曲页面"
+    },
+    {
+      "action": "点击K歌",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲录制页面"
+    },
+    {
+      "action": "点击播放/暂停",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "播放歌曲页面"
+    },
+    {
+      "action": "点击评论",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲评论页面"
+    }
+  ]
+}

@@ -1,0 +1,1174 @@
+{
+  "tasks": [
+    {
+      "query": "我要寻找美食下单，如何操作？",
+      "function": "搜索并下单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "美食"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "下订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "帮我找一下美团如何搜索黄焖鸡米饭并进行下单",
+      "function": "搜索并下单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "黄焖鸡米饭"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "下订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "想在美团上订单鲜花，请教我搜索到下单的步骤",
+      "function": "搜索并下单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "输入搜索内容",
+          "action": "type",
+          "parameter": "鲜花"
+        },
+        {
+          "pageName": "搜索页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果页面",
+          "instruct": "选择搜索结果",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索结果详情页面",
+          "instruct": "下订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想扫码付款，怎么操作呢？",
+      "function": "扫码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "能告诉我美团如何扫码吗？",
+      "function": "扫码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要在美团扫一下付款码，请指导我。",
+      "function": "扫码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用美团扫个码查看结果",
+      "function": "扫码发现结果",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "点击发现",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "发现页面",
+          "instruct": "识别结果",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我打开美团，我要扫码看看有什么发现",
+      "function": "扫码发现结果",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "点击发现",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "发现页面",
+          "instruct": "识别结果",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要扫描一个二维码来获取信息，在美团上应该怎么操作？",
+      "function": "扫码发现结果",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "点击发现",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "发现页面",
+          "instruct": "识别结果",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想扫描药品条形码查看信息",
+      "function": "扫描识别药品信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "点击扫药品",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫药品页面",
+          "instruct": "识别药品",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我如何通过美团app识别药品详情",
+      "function": "扫描识别药品信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "点击扫药品",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫药品页面",
+          "instruct": "识别药品",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要扫描药品获取其信息，应该怎么操作呢?",
+      "function": "扫描识别药品信息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击扫码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码页面",
+          "instruct": "点击扫药品",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫药品页面",
+          "instruct": "识别药品",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想快速找到能尽快送达的蛋糕，请帮我筛选",
+      "function": "速度优先筛选点外卖",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "蛋糕"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "速度优先",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果速度优先页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果速度优先详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我急需订奶茶，需要一个速度优先的排序方式来选择",
+      "function": "速度优先筛选点外卖",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "奶茶"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "速度优先",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果速度优先页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果速度优先详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问怎样可以快速筛选出送餐速度快的炸鸡店？",
+      "function": "速度优先筛选点外卖",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "炸鸡"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "速度优先",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果速度优先页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果速度优先详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在美团外卖按销量高的排序来点汉堡",
+      "function": "按销量筛选外卖",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "汉堡"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "销量优先",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果销量优先页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果销量优先详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我找一下在美团上销量排前的水果茶店",
+      "function": "按销量筛选外卖",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "水果茶"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "销量优先",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果销量优先页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果销量优先详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要按销量挑选甜品，请在美团上帮我筛选一下。",
+      "function": "按销量筛选外卖",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "甜品"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "销量优先",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果销量优先页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果销量优先详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想要点外卖奶茶，需要先搜索店铺然后进行筛选",
+      "function": "搜索并筛选外卖结果后订餐",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "奶茶"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何在美团单独搜索快餐并筛选特定的外卖店家？",
+      "function": "搜索并筛选外卖结果后订餐",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "快餐"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要筛选水果搜索结果并订一份外卖，应该怎么操作？",
+      "function": "搜索并筛选外卖结果后订餐",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击外卖",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖页面",
+          "instruct": "点击搜索框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "搜索外卖",
+          "action": "type",
+          "parameter": "水果"
+        },
+        {
+          "pageName": "搜索外卖页面",
+          "instruct": "点击搜索",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序页面",
+          "instruct": "筛选外卖",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "外卖结果综合排序详情页面",
+          "instruct": "点外卖",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在当前位置搜索附近的酒店民宿然后订个房间",
+      "function": "当前位置搜索并订酒店民宿",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "当前位置",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "搜索酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿搜索页面",
+          "instruct": "选择酒店民宿",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿详情页面",
+          "instruct": "订酒店",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "从我现在的位置找酒店民宿并进行订房",
+      "function": "当前位置搜索并订酒店民宿",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "当前位置",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "搜索酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿搜索页面",
+          "instruct": "选择酒店民宿",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿详情页面",
+          "instruct": "订酒店",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何在我所在地区搜索并预订酒店民宿？",
+      "function": "当前位置搜索并订酒店民宿",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "当前位置",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "搜索酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿搜索页面",
+          "instruct": "选择酒店民宿",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿详情页面",
+          "instruct": "订酒店",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想查看我在美团上的酒店民宿订单，请告诉我怎么操作",
+      "function": "查看酒店民宿订单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "当前位置",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "点击订单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿订单页面",
+          "instruct": "查看订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "怎么在美团上查找我之前预订的酒店民宿订单呢？",
+      "function": "查看酒店民宿订单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "当前位置",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "点击订单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿订单页面",
+          "instruct": "查看订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何快速找到我的酒店民宿订单，我想确认我的预订信息",
+      "function": "查看酒店民宿订单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击酒店民宿",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "当前位置",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿页面",
+          "instruct": "点击订单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "酒店民宿订单页面",
+          "instruct": "查看订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在美团上看刷视频",
+      "function": "刷美团短视频",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击视频",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "刷视频页面",
+          "instruct": "刷视频",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在美团app里面，我该如何找到短视频来看呢？",
+      "function": "刷美团短视频",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击视频",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "刷视频页面",
+          "instruct": "刷视频",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我打开美团了，怎样才能观看短视频？",
+      "function": "刷美团短视频",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击视频",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "刷视频页面",
+          "instruct": "刷视频",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想把我的美团消息都标为已读然后查看详情",
+      "function": "标消息已读并查看",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击消息",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "全部已读",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "查看消息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "能帮我把未读的消息在美团上标记为已读，并且我想看看有哪些消息",
+      "function": "标消息已读并查看",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击消息",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "全部已读",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "查看消息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我在美团怎么快速把所有信息标记已读后再逐个阅读。",
+      "function": "标消息已读并查看",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击消息",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "全部已读",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "查看消息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想查看我的美团消息中心里的消息",
+      "function": "查看美团消息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击消息",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "查看消息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何在美团app里查看我收到的消息？",
+      "function": "查看美团消息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击消息",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "查看消息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我打开美团里的消息页面，我需要查看我的消息",
+      "function": "查看美团消息",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击消息",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "消息页面",
+          "instruct": "查看消息",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想查看我在美团上的所有订单记录",
+      "function": "查看全部个人订单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人详情页面",
+          "instruct": "点击全部订单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人订单详情页面",
+          "instruct": "查看个人订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我找到我的订单列表，我需要核对一下我的订单详情",
+      "function": "查看全部个人订单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人详情页面",
+          "instruct": "点击全部订单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人订单详情页面",
+          "instruct": "查看个人订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在美团中怎么查看我过去的所有订单？我需要检查一下。",
+      "function": "查看全部个人订单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "点击我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人详情页面",
+          "instruct": "点击全部订单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人订单详情页面",
+          "instruct": "查看个人订单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pageName": "热榜书目详情页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "听书热榜页面"
+    },
+    {
+      "action": "播放书目",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "热榜书目详情页面"
+    }
+  ]
+}

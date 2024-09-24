@@ -1,0 +1,21 @@
+{
+  "pageName": "AR页面",
+  "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,1,0"
+    },
+    {
+      "action": "扫描AR",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "AR页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

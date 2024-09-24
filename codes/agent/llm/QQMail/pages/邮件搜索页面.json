@@ -1,0 +1,23 @@
+{
+  "pageName": "邮件搜索页面",
+  "actionList": [
+    {
+      "action": "取消",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "输入邮件信息",
+      "type": "输入动作",
+      "parameter": "邮件信息",
+      "nextPage": "邮件搜索页面"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "邮件搜索详情页面"
+    }
+  ]
+}

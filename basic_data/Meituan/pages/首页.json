@@ -1,0 +1,56 @@
+{
+  "pageName": "首页",
+  "page": "com.meituan.android.pt.homepage.activity.MainActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0"
+    },
+    {
+      "action": "点击扫码",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫码页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1"
+    },
+    {
+      "action": "点击外卖",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0"
+    },
+    {
+      "action": "点击酒店民宿",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,2"
+    },
+    {
+      "action": "点击视频",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "刷视频页面",
+      "path": "0,0,0,0,0,2,2,1"
+    },
+    {
+      "action": "点击消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,0,0,2,2,2"
+    },
+    {
+      "action": "点击我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人详情页面",
+      "path": "0,0,0,0,0,2,2,4"
+    }
+  ]
+}

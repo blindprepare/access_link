@@ -1,0 +1,21 @@
+{
+  "pageName": "音乐排行页面",
+  "page": "com.tencent.qqmusic.activity.AppStarterActivity",
+  "package": "com.tencent.qqmusic",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,1,2,1,0,0"
+    },
+    {
+      "action": "选择榜单",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "音乐榜单排行页面",
+      "path": "0,0,0,1,2,2,6"
+    }
+  ]
+}

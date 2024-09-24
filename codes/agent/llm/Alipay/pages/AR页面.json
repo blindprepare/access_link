@@ -1,0 +1,17 @@
+{
+  "pageName": "AR页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "扫描AR",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "AR页面"
+    }
+  ]
+}

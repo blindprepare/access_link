@@ -1,0 +1,21 @@
+{
+  "pageName": "搜索结果页面",
+  "page": "com.sankuai.meituan.search.result.SearchResultActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "选择搜索结果",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,0,0,0,1,0,1,0,2,3,0"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pageName": "消息页面",
+  "page": "com.meituan.android.pt.homepage.activity.MainActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "全部已读",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,0,0,0,0,1,0,1"
+    },
+    {
+      "action": "查看消息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击视频",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "刷视频页面",
+      "path": "0,0,0,0,0,2,2,1"
+    },
+    {
+      "action": "点击首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,2,2,0,0"
+    },
+    {
+      "action": "点击我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人详情页面",
+      "path": "0,0,0,0,0,2,2,4"
+    }
+  ]
+}

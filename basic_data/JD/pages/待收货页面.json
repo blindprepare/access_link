@@ -1,0 +1,21 @@
+{
+  "pageName": "待收货页面",
+  "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,1,1"
+    },
+    {
+      "action": "查看待收货订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "待收货页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

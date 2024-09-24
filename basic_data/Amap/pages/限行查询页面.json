@@ -1,0 +1,28 @@
+{
+  "pageName": "限行查询页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0"
+    },
+    {
+      "action": "输入查找城市",
+      "type": "输入动作",
+      "parameter": "查找城市",
+      "nextPage": "限行查询页面",
+      "path": "0,0,0,0,6,0,0,0,0,1,0,1,0,0,1,0,0"
+    },
+    {
+      "action": "筛选查找城市",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询结果页面",
+      "path": "0,0,0,0,6,0,0,0,0,1,0,1,1,0,0,1,0"
+    }
+  ]
+}

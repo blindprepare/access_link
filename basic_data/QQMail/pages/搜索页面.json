@@ -1,0 +1,28 @@
+{
+  "pageName": "搜索页面",
+  "page": "com.tencent.qqmail.search.SearchActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "取消",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,1,0,2,0,1"
+    },
+    {
+      "action": "邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "邮件搜索页面",
+      "path": "0,0,0,0,0,0,0,1,0,0,1"
+    },
+    {
+      "action": "通讯录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人搜索页面",
+      "path": "0,0,0,0,0,0,0,1,0,0,2"
+    }
+  ]
+}

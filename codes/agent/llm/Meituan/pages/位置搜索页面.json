@@ -1,0 +1,23 @@
+{
+  "pageName": "位置搜索页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿页面"
+    },
+    {
+      "action": "输入地理位置",
+      "type": "输入动作",
+      "parameter": "地理位置",
+      "nextPage": "位置搜索页面"
+    },
+    {
+      "action": "筛选地理位置",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿页面"
+    }
+  ]
+}

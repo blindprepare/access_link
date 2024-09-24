@@ -1,0 +1,42 @@
+{
+  "pageName": "外卖结果销量优先页面",
+  "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索外卖页面",
+      "path": "0,0,0,0,0,0,1,1,0"
+    },
+    {
+      "action": "综合排序",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖结果综合排序页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2"
+    },
+    {
+      "action": "销量优先",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖结果销量优先页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2"
+    },
+    {
+      "action": "速度优先",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖结果速度优先页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,2,2"
+    },
+    {
+      "action": "筛选外卖",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖结果销量优先详情页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0"
+    }
+  ]
+}

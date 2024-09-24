@@ -1,0 +1,21 @@
+{
+  "pageName": "驾车轨迹页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,0,0,1,0"
+    },
+    {
+      "action": "查看驾车轨迹",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车轨迹页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

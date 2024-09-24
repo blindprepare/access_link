@@ -1,0 +1,35 @@
+{
+  "pageName": "银行卡实际转账页面",
+  "page": "com.alipay.mobile.transferapp.ui.TFToCardConfirmCubeActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转到银行卡页面",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "转账金额",
+      "type": "输入动作",
+      "parameter": "转账金额",
+      "nextPage": "银行卡实际转账页面",
+      "path": "0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1"
+    },
+    {
+      "action": "转账留言",
+      "type": "输入动作",
+      "parameter": "转账留言",
+      "nextPage": "银行卡实际转账页面",
+      "path": "0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0"
+    },
+    {
+      "action": "确认转账",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "转到银行卡页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

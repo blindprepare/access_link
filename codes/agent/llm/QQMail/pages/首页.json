@@ -1,0 +1,47 @@
+{
+  "pageName": "首页",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面"
+    },
+    {
+      "action": "收件箱",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收件箱页面"
+    },
+    {
+      "action": "星标邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件页面"
+    },
+    {
+      "action": "通讯录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录页面"
+    },
+    {
+      "action": "已发送",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送页面"
+    },
+    {
+      "action": "草稿箱",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱页面"
+    },
+    {
+      "action": "已删除",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除页面"
+    }
+  ]
+}

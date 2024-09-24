@@ -1,0 +1,35 @@
+{
+  "pageName": "转给他人页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面"
+    },
+    {
+      "action": "支付宝账户",
+      "type": "输入动作",
+      "parameter": "支付宝账户",
+      "nextPage": "转给他人页面"
+    },
+    {
+      "action": "转出金额",
+      "type": "输入动作",
+      "parameter": "转出金额",
+      "nextPage": "转给他人页面"
+    },
+    {
+      "action": "转出理由",
+      "type": "输入动作",
+      "parameter": "转出理由",
+      "nextPage": "转给他人页面"
+    },
+    {
+      "action": "确认转出",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "转给他人页面"
+    }
+  ]
+}

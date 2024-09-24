@@ -1,0 +1,17 @@
+{
+  "pageName": "公交周边信息页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面"
+    },
+    {
+      "action": "查看周边信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交周边信息页面"
+    }
+  ]
+}

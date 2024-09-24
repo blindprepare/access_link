@@ -1,0 +1,56 @@
+{
+  "pageName": "公交搜索结果详情页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,2,1,0,0"
+    },
+    {
+      "action": "分享位置",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "查看位置介绍",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "导航",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交导航页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "路线",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交路线信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "周边",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交周边信息页面",
+      "path": "0,0,0,0,6,1,0,2,0,0,1,8,0,1,0"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交打车页面",
+      "path": "0,0,0,0,6,1,0,2,0,0,1,8,0,1,3"
+    }
+  ]
+}

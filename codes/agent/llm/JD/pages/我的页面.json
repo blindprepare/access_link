@@ -1,0 +1,76 @@
+{
+  "pageName": "我的页面",
+  "actionList": [
+     {
+      "action": "点击首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },{
+      "action": "点击购物车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "购物车页面"
+    },
+    {
+      "action": "点击待付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "待付款页面"
+    },
+    {
+      "action": "点击待收货",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "待收货页面"
+    },
+    {
+      "action": "点击待评价",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "待评价页面"
+    },
+    {
+      "action": "点击退换",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换页面"
+    },
+    {
+      "action": "点击我的订单",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的订单页面"
+    },
+    {
+      "action": "点击京豆",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京豆页面"
+    },
+    {
+      "action": "点击优惠券",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠券页面"
+    },
+    {
+      "action": "点击浏览记录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "浏览记录页面"
+    },
+    {
+      "action": "点击商品收藏",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "商品收藏页面"
+    },
+    {
+      "action": "点击店铺关注",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "店铺关注页面"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pageName": "歌手视频页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌手页面"
+    },
+    {
+      "action": "选择视频播放",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "歌手视频页面"
+    },
+    {
+      "action": "点击专辑",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌手专辑页面"
+    },
+    {
+      "action": "点击歌曲",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌手歌曲页面"
+    }
+  ]
+}

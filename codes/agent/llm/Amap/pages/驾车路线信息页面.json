@@ -1,0 +1,23 @@
+{
+  "pageName": "驾车路线信息页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "输入驾车终点页面"
+    },
+    {
+      "action": "查看路线信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车路线信息页面"
+    },
+    {
+      "action": "开始导航",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车路线信息页面"
+    }
+  ]
+}

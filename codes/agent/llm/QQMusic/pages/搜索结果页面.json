@@ -1,0 +1,11 @@
+{
+  "pageName": "搜索结果页面",
+  "actionList": [
+    {
+      "action": "筛选搜索结果",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果页面"
+    }
+  ]
+}

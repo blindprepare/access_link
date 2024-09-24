@@ -1,0 +1,23 @@
+{
+  "pageName": "荷包转出页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面"
+    },
+    {
+      "action": "转给自己",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转给自己页面"
+    },
+    {
+      "action": "转给他人",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转给他人页面"
+    }
+  ]
+}

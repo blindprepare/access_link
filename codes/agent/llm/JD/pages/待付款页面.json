@@ -1,0 +1,17 @@
+{
+  "pageName": "待付款页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面"
+    },
+    {
+      "action": "查看待付款订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "待付款页面"
+    }
+  ]
+}

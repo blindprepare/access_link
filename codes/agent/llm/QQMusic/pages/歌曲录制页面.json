@@ -1,0 +1,17 @@
+{
+  "pageName": "歌曲录制页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "播放歌曲页面"
+    },
+    {
+      "action": "唱歌",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲录制页面"
+    }
+  ]
+}

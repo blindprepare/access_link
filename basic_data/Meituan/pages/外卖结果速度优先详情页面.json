@@ -1,0 +1,21 @@
+{
+  "pageName": "外卖结果速度优先详情页面",
+  "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖结果速度优先页面",
+      "path": "0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "点外卖",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖结果速度优先详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pageName": "酒店民宿搜索页面",
+  "page": "com.meituan.android.hotel.search.HotelSearchResultActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "选择酒店民宿",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿详情页面",
+      "path": "0,0,0,0,0,0,0,8,0,0,6,0,1,1,0,0,0"
+    }
+  ]
+}

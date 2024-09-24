@@ -1,0 +1,628 @@
+{
+  "pages": [
+    {
+      "pageName": "个人详情页面",
+      "actionList": [
+        {
+          "action": "点击首页",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "点击消息",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "消息页面"
+        },
+        {
+          "action": "点击视频",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "刷视频页面"
+        },
+        {
+          "action": "点击全部订单",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "个人订单详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "个人订单详情页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "个人详情页面"
+        },
+        {
+          "action": "查看个人订单",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "个人订单详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "消息页面",
+      "actionList": [
+        {
+          "action": "全部已读",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "消息页面"
+        },
+        {
+          "action": "查看消息",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "消息页面"
+        },
+        {
+          "action": "点击视频",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "刷视频页面"
+        },
+        {
+          "action": "点击首页",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "点击我的",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "个人详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "酒店民宿详情页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿搜索页面"
+        },
+        {
+          "action": "订酒店",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "发现页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "识别结果",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "发现页面"
+        },
+        {
+          "action": "点击扫码",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "扫码页面"
+        },
+        {
+          "action": "点击扫药品",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "扫药品页面"
+        }
+      ]
+    },
+    {
+      "pageName": "搜索页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "输入搜索内容",
+          "type": "输入动作",
+          "parameter": "搜索内容",
+          "nextPage": "搜索页面"
+        },
+        {
+          "action": "点击搜索",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索结果页面"
+        }
+      ]
+    },
+    {
+      "pageName": "首页",
+      "actionList": [
+        {
+          "action": "点击搜索框",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索页面"
+        },
+        {
+          "action": "点击扫码",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "扫码页面"
+        },
+        {
+          "action": "点击外卖",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖页面"
+        },
+        {
+          "action": "点击外卖",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖页面"
+        },
+        {
+          "action": "点击酒店民宿",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿页面"
+        },
+        {
+          "action": "点击视频",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "刷视频页面"
+        },
+        {
+          "action": "点击消息",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "消息页面"
+        },
+        {
+          "action": "点击我的",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "个人详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "酒店民宿搜索页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿页面"
+        },
+        {
+          "action": "选择酒店民宿",
+          "type": "筛选动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "外卖页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "点击搜索框",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索外卖页面"
+        }
+      ]
+    },
+    {
+      "pageName": "扫药品页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "识别药品",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "扫药品页面"
+        },
+        {
+          "action": "点击扫码",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "扫码页面"
+        },
+        {
+          "action": "点击发现",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "发现页面"
+        }
+      ]
+    },
+    {
+      "pageName": "酒店民宿订单页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿页面"
+        },
+        {
+          "action": "查看订单",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿订单页面"
+        },
+        {
+          "action": "点击首页",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿页面"
+        }
+      ]
+    },
+    {
+      "pageName": "搜索结果详情页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索结果页面"
+        },
+        {
+          "action": "下订单",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索结果详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "外卖结果销量优先页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索外卖页面"
+        },
+        {
+          "action": "综合排序",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果综合排序页面"
+        },
+        {
+          "action": "销量优先",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果销量优先页面"
+        },
+        {
+          "action": "速度优先",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果速度优先页面"
+        },
+        {
+          "action": "筛选外卖",
+          "type": "筛选动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果销量优先详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "外卖结果速度优先页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索外卖页面"
+        },
+        {
+          "action": "综合排序",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果综合排序页面"
+        },
+        {
+          "action": "销量优先",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果销量优先页面"
+        },
+        {
+          "action": "速度优先",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果速度优先页面"
+        },
+        {
+          "action": "筛选外卖",
+          "type": "筛选动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果速度优先详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "搜索外卖页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖页面"
+        },
+        {
+          "action": "搜索外卖",
+          "type": "输入动作",
+          "parameter": "外卖名称",
+          "nextPage": "搜索外卖页面"
+        },
+        {
+          "action": "点击搜索",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果综合排序页面"
+        }
+      ]
+    },
+    {
+      "pageName": "外卖结果销量优先详情页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果销量优先页面"
+        },
+        {
+          "action": "点外卖",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果销量优先详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "外卖结果综合排序页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索外卖页面"
+        },
+        {
+          "action": "综合排序",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果综合排序页面"
+        },
+        {
+          "action": "销量优先",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果销量优先页面"
+        },
+        {
+          "action": "速度优先",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果速度优先页面"
+        },
+        {
+          "action": "筛选外卖",
+          "type": "筛选动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果综合排序详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "搜索结果页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索页面"
+        },
+        {
+          "action": "选择搜索结果",
+          "type": "筛选动作",
+          "parameter": "无需参数",
+          "nextPage": "搜索结果详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "位置搜索页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿页面"
+        },
+        {
+          "action": "输入地理位置",
+          "type": "输入动作",
+          "parameter": "地理位置",
+          "nextPage": "位置搜索页面"
+        },
+        {
+          "action": "筛选地理位置",
+          "type": "筛选动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿页面"
+        }
+      ]
+    },
+    {
+      "pageName": "刷视频页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "刷视频页面"
+        },
+        {
+          "action": "刷视频",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "刷视频页面"
+        },
+        {
+          "action": "点击首页",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "点击消息",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "消息页面"
+        },
+        {
+          "action": "点击我的",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "个人详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "外卖结果速度优先详情页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果速度优先页面"
+        },
+        {
+          "action": "点外卖",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果速度优先详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "酒店民宿页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "当前位置",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿页面"
+        },
+        {
+          "action": "位置搜索",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "位置搜索页面"
+        },
+        {
+          "action": "搜索酒店民宿",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿搜索页面"
+        },
+        {
+          "action": "点击订单",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "酒店民宿订单页面"
+        }
+      ]
+    },
+    {
+      "pageName": "外卖结果综合排序详情页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果综合排序页面"
+        },
+        {
+          "action": "点外卖",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "外卖结果综合排序详情页面"
+        }
+      ]
+    },
+    {
+      "pageName": "扫码页面",
+      "actionList": [
+        {
+          "action": "返回",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "首页"
+        },
+        {
+          "action": "扫码",
+          "type": "人为动作",
+          "parameter": "无需参数",
+          "nextPage": "扫码页面"
+        },
+        {
+          "action": "点击发现",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "发现页面"
+        },
+        {
+          "action": "点击扫药品",
+          "type": "点击动作",
+          "parameter": "无需参数",
+          "nextPage": "扫药品页面"
+        }
+      ]
+    }
+  ]
+}

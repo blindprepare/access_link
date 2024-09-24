@@ -1,0 +1,35 @@
+{
+  "pageName": "酒店民宿页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "当前位置",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿页面"
+    },
+    {
+      "action": "位置搜索",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "位置搜索页面"
+    },
+    {
+      "action": "搜索酒店民宿",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿搜索页面"
+    },
+    {
+      "action": "点击订单",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿订单页面"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "pageName": "搜索打车页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,2,2,6,2,1,1,0,1,1,1,0,0,0,3,0,0,0,2"
+    },
+    {
+      "action": "开始打车",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索打车页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

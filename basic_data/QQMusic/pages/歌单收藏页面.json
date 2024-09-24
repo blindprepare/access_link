@@ -1,0 +1,35 @@
+{
+  "pageName": "歌单收藏页面",
+  "page": "com.tencent.qqmusic.activity.AppStarterActivity",
+  "package": "com.tencent.qqmusic",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人详情页面",
+      "path": "0,0,0,1,1,1,0"
+    },
+    {
+      "action": "选择歌单播放",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "歌单收藏页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击专辑",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "专辑收藏页面",
+      "path": "0,0,0,1,1,2,0,0,1"
+    },
+    {
+      "action": "点击歌曲",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲收藏页面",
+      "path": "0,0,0,1,1,2,0,0,0"
+    }
+  ]
+}

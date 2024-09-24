@@ -1,0 +1,28 @@
+{
+  "pageName": "输入终点页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,0"
+    },
+    {
+      "action": "输入终点",
+      "type": "输入动作",
+      "parameter": "终点",
+      "nextPage": "输入终点页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,1,0,0,0,1,1,0,1"
+    },
+    {
+      "action": "选择终点位置",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁路线信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,0"
+    }
+  ]
+}

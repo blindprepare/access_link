@@ -1,0 +1,41 @@
+{
+  "pageName": "驾车页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "点击输入终点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "输入驾车终点页面"
+    },
+    {
+      "action": "点击驾车轨迹",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车轨迹页面"
+    },
+    {
+      "action": "限行查询",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询页面"
+    },
+    {
+      "action": "停车推荐",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "停车推荐页面"
+    },
+    {
+      "action": "通行费助手",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通行费助手页面"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Access Link</string>
+    <string name="accessibility_label">AccessLinkAccessibility</string>
+    <string name="accessibility_service_description">access link application</string>
+    <string name="start_record">Select App</string>
+    <string name="llm_helper">LLM Helper</string>
+    <string name="app_icon">App Icon</string>
+    <string name="app_id">15d0b138</string>
+    <string name="stop">STOP</string>
+    <string name="human_action">Human Action</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear All</string>
+</resources>

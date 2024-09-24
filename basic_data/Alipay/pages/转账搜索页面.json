@@ -1,0 +1,28 @@
+{
+  "pageName": "转账搜索页面",
+  "page": "com.alipay.android.phone.businesscommon.globalsearch.ui.MainSearchActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面",
+      "path": "0,0,0,0,1,1,0,0,0,0"
+    },
+    {
+      "action": "输入支付宝账户",
+      "type": "输入动作",
+      "parameter": "输入手机号、银行卡号、联系人姓名转账",
+      "nextPage": "转账搜索页面",
+      "path": "0,0,0,0,1,1,0,0,0,1,2"
+    },
+    {
+      "action": "选择搜索内容",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "实际转账页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1,0,0"
+    }
+  ]
+}

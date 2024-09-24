@@ -1,0 +1,21 @@
+{
+  "pageName": "热门直播详情页面",
+  "page": "com.tme.mlive.framework.ui.LivePagerActivity",
+  "package": "com.tencent.qqmusic",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "直播页面",
+      "path": "0,0,0,0,0,0,0,1,4,0,2"
+    },
+    {
+      "action": "刷直播",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "热门直播详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

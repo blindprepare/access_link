@@ -1,0 +1,21 @@
+{
+  "pageName": "扫码开锁页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "骑行页面",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "扫码开锁",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "扫码开锁页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

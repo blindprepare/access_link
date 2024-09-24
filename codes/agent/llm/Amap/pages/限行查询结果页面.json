@@ -1,0 +1,17 @@
+{
+  "pageName": "限行查询结果页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询页面"
+    },
+    {
+      "action": "查看限行政策",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询结果页面"
+    }
+  ]
+}

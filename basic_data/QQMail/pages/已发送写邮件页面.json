@@ -1,0 +1,21 @@
+{
+  "pageName": "已发送写邮件页面",
+  "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送页面",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送写邮件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

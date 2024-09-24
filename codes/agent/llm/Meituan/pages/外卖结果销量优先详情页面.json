@@ -1,0 +1,17 @@
+{
+  "pageName": "外卖结果销量优先详情页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖结果销量优先页面"
+    },
+    {
+      "action": "点外卖",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "外卖结果销量优先详情页面"
+    }
+  ]
+}

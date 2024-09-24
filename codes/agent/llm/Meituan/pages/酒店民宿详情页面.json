@@ -1,0 +1,17 @@
+{
+  "pageName": "酒店民宿详情页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿搜索页面"
+    },
+    {
+      "action": "订酒店",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "酒店民宿详情页面"
+    }
+  ]
+}

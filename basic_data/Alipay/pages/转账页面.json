@@ -1,0 +1,42 @@
+{
+  "pageName": "转账页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "点击输入框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账搜索页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,6"
+    },
+    {
+      "action": "转到支付宝",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转到支付宝页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,7,0"
+    },
+    {
+      "action": "转到银行卡",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转到银行卡页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,8,2"
+    },
+    {
+      "action": "转其他APP",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转其他APP页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,9"
+    }
+  ]
+}

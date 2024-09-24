@@ -1,0 +1,23 @@
+{
+  "pageName": "哼唱识别页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面"
+    },
+    {
+      "action": "点击听歌识曲",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "听歌识曲页面"
+    },
+    {
+      "action": "哼唱识别",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "哼唱识别页面"
+    }
+  ]
+}

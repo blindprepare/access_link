@@ -1,0 +1,35 @@
+{
+  "pageName": "公交地铁页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "点击输入终点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "输入终点页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,1,0,1,1"
+    },
+    {
+      "action": "点击查公交",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "查公交页面",
+      "path": "0,0,0,0,6,0,0,3,0,2,0,1,0,0,0,3,0,0,0"
+    },
+    {
+      "action": "地铁图",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "地铁图页面",
+      "path": "0,0,0,0,6,0,0,3,0,2,0,1,0,0,0,3,0,1,0"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pageName": "音乐直播页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "筛选直播",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "音乐直播详情页面"
+    },
+    {
+      "action": "点击热门",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "直播页面"
+    },
+    {
+      "action": "点击颜值",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "颜值直播页面"
+    },
+    {
+      "action": "点击嗨聊",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "嗨聊直播页面"
+    }
+  ]
+}

@@ -1,0 +1,1203 @@
+{
+  "pages": [{
+  "pageName": "京豆页面",
+  "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看京豆收支明细",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "京豆页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "服务通知页面",
+  "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,0"
+    },
+    {
+      "action": "查看服务通知",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "服务通知页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击清除消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面",
+      "path": "0,0,0,2,0,2"
+    },
+    {
+      "action": "点击我的预约",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的预约页面",
+      "path": "0,0,0,2,0,3"
+    },
+    {
+      "action": "点击客服消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,3,0,0,0,0,0"
+    },
+    {
+      "action": "点击交易物流",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "交易物流页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    },
+    {
+      "action": "点击互动消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "互动消息页面",
+      "path": "0,0,0,3,1,0,0,0,3,2"
+    },
+    {
+      "action": "点击京东快讯",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京东快讯页面",
+      "path": "0,0,0,3,1,0,0,0,4,2"
+    },
+    {
+      "action": "点击优惠促销",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠促销页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "退换页面",
+  "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看退换订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "退换页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击处理中",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换处理中页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1"
+    },
+    {
+      "action": "点击待评价",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换待评价页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,2"
+    },
+    {
+      "action": "点击申请记录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换申请记录页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,3"
+    }
+  ]
+}
+,
+{
+  "pageName": "消息页面",
+  "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,0"
+    },
+    {
+      "action": "查看客服消息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击清除消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面",
+      "path": "0,0,0,2,0,2"
+    },
+    {
+      "action": "点击我的预约",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的预约页面",
+      "path": "0,0,0,2,0,3"
+    },
+    {
+      "action": "点击交易物流",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "交易物流页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    },
+    {
+      "action": "点击服务通知",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "服务通知页面",
+      "path": "0,0,0,3,1,0,0,0,2,1"
+    },
+    {
+      "action": "点击互动消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "互动消息页面",
+      "path": "0,0,0,3,1,0,0,0,3,2"
+    },
+    {
+      "action": "点击京东快讯",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京东快讯页面",
+      "path": "0,0,0,3,1,0,0,0,4,2"
+    },
+    {
+      "action": "点击优惠促销",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠促销页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "待收货页面",
+  "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,1,1"
+    },
+    {
+      "action": "查看待收货订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "待收货页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "我的订单页面",
+  "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,1,1"
+    },
+    {
+      "action": "查看全部订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "我的订单页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "搜索页面",
+  "page": "com.jd.lib.search.view.Activity.SearchActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "输入搜索内容",
+      "type": "输入动作",
+      "parameter": "搜索内容",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,0,1,0,0,1,0,0"
+    },
+    {
+      "action": "点击搜索",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果页面",
+      "path": "0,0,0,0,0,1,0,0,1,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "京东拍照页面",
+  "page": "com.jd.lib.scan.lib.zxing.client.android.NewCaptureActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,2"
+    },
+    {
+      "action": "对准商品自动识别",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "京东拍照页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "首页",
+  "page": "com.jingdong.app.mall.MainFrameActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,1,0,1,0,7,0"
+    },
+    {
+      "action": "点击扫啊扫",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫啊扫页面",
+      "path": "0,0,0,1,0,1,0,7,0,0,4"
+    },
+    {
+      "action": "点击京东拍照",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京东拍照页面",
+      "path": "0,0,0,1,0,1,0,7,0,0,2"
+    },
+    {
+      "action": "点击购物车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "购物车页面",
+      "path": "0,0,0,3,0,0,3,0,2"
+    },
+    {
+      "action": "点击我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,3,0,0,4,0,2"
+    },
+    {
+      "action": "点击消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,1,0,1,0,6"
+    }
+  ]
+}
+,
+{
+  "pageName": "互动消息页面",
+  "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,0"
+    },
+    {
+      "action": "查看互动消息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "互动消息页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击清除消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面",
+      "path": "0,0,0,2,0,2"
+    },
+    {
+      "action": "点击我的预约",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的预约页面",
+      "path": "0,0,0,2,0,3"
+    },
+    {
+      "action": "点击客服消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,3,0,0,0,0,0"
+    },
+    {
+      "action": "点击交易物流",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "交易物流页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    },
+    {
+      "action": "点击服务通知",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "服务通知页面",
+      "path": "0,0,0,3,1,0,0,0,2,1"
+    },
+    {
+      "action": "点击京东快讯",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京东快讯页面",
+      "path": "0,0,0,3,1,0,0,0,4,2"
+    },
+    {
+      "action": "点击优惠促销",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠促销页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "退换处理中页面",
+  "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看退换处理中订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "退换处理中页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击售后申请",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0"
+    },
+    {
+      "action": "点击待评价",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换待评价页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,2"
+    },
+    {
+      "action": "点击申请记录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换申请记录页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,3"
+    }
+  ]
+}
+,
+{
+  "pageName": "交易物流页面",
+  "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,0"
+    },
+    {
+      "action": "查看交易物流",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "交易物流页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击清除消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面",
+      "path": "0,0,0,2,0,2"
+    },
+    {
+      "action": "点击我的预约",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的预约页面",
+      "path": "0,0,0,2,0,3"
+    },
+    {
+      "action": "点击客服消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,3,0,0,0,0,0"
+    },
+    {
+      "action": "点击服务通知",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "服务通知页面",
+      "path": "0,0,0,3,1,0,0,0,2,1"
+    },
+    {
+      "action": "点击互动消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "互动消息页面",
+      "path": "0,0,0,3,1,0,0,0,3,2"
+    },
+    {
+      "action": "点击京东快讯",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京东快讯页面",
+      "path": "0,0,0,3,1,0,0,0,4,2"
+    },
+    {
+      "action": "点击优惠促销",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠促销页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "购物车页面",
+  "page": "com.jingdong.app.mall.MainFrameActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "查看购物车信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "购物车页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "购物车结算",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "购物车页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,3,0,0,0,2"
+    },
+    {
+      "action": "点击我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,3,0,0,4,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "优惠券页面",
+  "page": "com.jd.lib.mycoupon.mvp.view.activity.CouponActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,1,0"
+    },
+    {
+      "action": "查看优惠券情况",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠券页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "待评价页面",
+  "page": "com.jd.lib.evaluatecenter.view.activity.EvaluateCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,1,0,1,0"
+    },
+    {
+      "action": "查看待评价订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "待评价页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "退换申请记录页面",
+  "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看退换申请记录",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "退换申请记录页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击售后申请",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0"
+    },
+    {
+      "action": "点击处理中",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换处理中页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1"
+    },
+    {
+      "action": "点击待评价",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换待评价页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "优惠促销页面",
+  "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,0"
+    },
+    {
+      "action": "查看优惠促销",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠促销页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击清除消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面",
+      "path": "0,0,0,2,0,2"
+    },
+    {
+      "action": "点击我的预约",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的预约页面",
+      "path": "0,0,0,2,0,3"
+    },
+    {
+      "action": "点击客服消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,3,0,0,0,0,0"
+    },
+    {
+      "action": "点击交易物流",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "交易物流页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    },
+    {
+      "action": "点击服务通知",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "服务通知页面",
+      "path": "0,0,0,3,1,0,0,0,2,1"
+    },
+    {
+      "action": "点击互动消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "互动消息页面",
+      "path": "0,0,0,3,1,0,0,0,3,2"
+    },
+    {
+      "action": "点击京东快讯",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京东快讯页面",
+      "path": "0,0,0,3,1,0,0,0,4,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "待付款页面",
+  "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,1,1"
+    },
+    {
+      "action": "查看待付款订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "待付款页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "商品收藏页面",
+  "page": "com.jingdong.app.mall.favorites.FavoListFragmentActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,1,0,0"
+    },
+    {
+      "action": "查看商品收藏情况",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "商品收藏页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "店铺关注页面",
+  "page": "com.jingdong.app.mall.favorites.FavoListFragmentActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,1,0,0"
+    },
+    {
+      "action": "查看店铺关注情况",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "店铺关注页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "我的预约页面",
+  "page": "com.jingdong.app.mall.WebActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,0,0,1,0,0,0,2,0"
+    },
+    {
+      "action": "查看我的预约",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "我的预约页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "搜索结果详情页面",
+  "page": "com.jd.lib.productdetail.ProductDetailActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果页面",
+      "path": "0,0,0,0,0,4,0,1"
+    },
+    {
+      "action": "加入购物车",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "购买商品",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "店铺",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "店铺页面",
+      "path": "0,0,0,0,0,7,1,0,0,0,1"
+    },
+    {
+      "action": "客服",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "客服页面",
+      "path": "0,0,0,0,0,7,1,0,1,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "扫啊扫页面",
+  "page": "com.jd.lib.scan.lib.zxing.client.android.NewCaptureActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,2"
+    },
+    {
+      "action": "识别条形码/二维码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "扫啊扫页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "消息清除页面",
+  "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,0"
+    },
+    {
+      "action": "完成消息清除",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "浏览记录页面",
+  "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看浏览记录",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "浏览记录页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "店铺页面",
+  "page": "com.jd.lib.jshop.jshop.JshopMainShopActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,1,1,4,0,0,0"
+    },
+    {
+      "action": "浏览店铺",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "店铺页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "搜索结果页面",
+  "page": "com.jd.lib.search.view.Activity.ProductListActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,0,5,0,1,0,0,0"
+    },
+    {
+      "action": "选择搜索结果",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,0,0,8,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "客服页面",
+  "page": "com.jd.lib.icssdk.v2.ui.activity.ActivityChattingNew",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,3,0,0,2"
+    },
+    {
+      "action": "联系客服",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "客服页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "我的页面",
+  "page": "com.jingdong.app.mall.MainFrameActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "点击首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,3,0,0,0,2"
+    },
+    {
+      "action": "点击购物车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "购物车页面",
+      "path": "0,0,0,3,0,0,3,0,2"
+    },
+    {
+      "action": "点击待付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "待付款页面",
+      "path": "0,0,0,1,0,0,0,0,0,2,1"
+    },
+    {
+      "action": "点击待收货",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "待收货页面",
+      "path": "0,0,0,1,0,0,0,0,0,2,2,0,2"
+    },
+    {
+      "action": "点击待评价",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "待评价页面",
+      "path": "0,0,0,1,0,0,0,0,0,2,3,0,2"
+    },
+    {
+      "action": "点击退换",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换页面",
+      "path": "0,0,0,1,0,0,0,0,0,2,4,0,1"
+    },
+    {
+      "action": "点击我的订单",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的订单页面",
+      "path": "0,0,0,1,0,0,0,0,0,2,0,0"
+    },
+    {
+      "action": "点击京豆",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "京豆页面",
+      "path": "0,0,0,1,0,0,0,0,0,3,0,0,0"
+    },
+    {
+      "action": "点击优惠券",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠券页面",
+      "path": "0,0,0,1,0,0,0,0,0,3,1,0,0"
+    },
+    {
+      "action": "点击浏览记录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "浏览记录页面",
+      "path": "0,0,0,1,0,0,0,0,0,3,4,0,0"
+    },
+    {
+      "action": "点击商品收藏",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "商品收藏页面",
+      "path": "0,0,0,1,0,0,0,0,0,3,2,0,0"
+    },
+    {
+      "action": "点击店铺关注",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "店铺关注页面",
+      "path": "0,0,0,1,0,0,0,0,0,3,3,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "京东快讯页面",
+  "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,0"
+    },
+    {
+      "action": "查看京东快讯",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "京东快讯页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击清除消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面",
+      "path": "0,0,0,2,0,2"
+    },
+    {
+      "action": "点击我的预约",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的预约页面",
+      "path": "0,0,0,2,0,3"
+    },
+    {
+      "action": "点击客服消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,3,0,0,0,0,0"
+    },
+    {
+      "action": "点击交易物流",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "交易物流页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    },
+    {
+      "action": "点击服务通知",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "服务通知页面",
+      "path": "0,0,0,3,1,0,0,0,2,1"
+    },
+    {
+      "action": "点击互动消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "互动消息页面",
+      "path": "0,0,0,3,1,0,0,0,3,2"
+    },
+    {
+      "action": "点击优惠促销",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠促销页面",
+      "path": "0,0,0,3,1,0,0,0,5,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "退换待评价页面",
+  "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看退换待评价订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "退换待评价页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击售后申请",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0"
+    },
+    {
+      "action": "点击处理中",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换处理中页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1"
+    },
+    {
+      "action": "点击申请记录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换申请记录页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,3"
+    }
+  ]
+}
+,
+  ]
+}

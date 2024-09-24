@@ -1,0 +1,3634 @@
+{
+  "tasks": [
+    {
+      "query": "请问怎么用支付宝扫描相册里的图片二维码",
+      "function": "从相册选择图片扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想从支付宝首页通过相册选取图片来扫一扫",
+      "function": "从相册选择图片扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要在支付宝里使用相册中的照片进行扫码",
+      "function": "从相册选择图片扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝扫描一个二维码",
+      "function": "扫描二维码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "帮我找到支付宝里面的扫一扫功能",
+      "function": "扫描二维码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要使用支付宝的扫码功能，请指导我怎么操作。",
+      "function": "扫描二维码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝扫描一下这个物体，看看是什么",
+      "function": "扫描物体识别",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识万物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问怎样用支付宝来识别眼前的这个东西?",
+      "function": "扫描物体识别",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识万物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "支付宝有识别东西的功能吗？我想扫描这个物品。",
+      "function": "扫描物体识别",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识万物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想扫描车牌，请帮我在支付宝找到车牌识别的功能",
+      "function": "扫一扫识车牌",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识车牌",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要用支付宝扫一扫来识别车牌号码",
+      "function": "扫一扫识车牌",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识车牌",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何使用支付宝扫一扫功能进行车牌识别?",
+      "function": "扫一扫识车牌",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识车牌",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝的扫一扫来翻译我面前的物体",
+      "function": "扫一扫物体翻译",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "翻译",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我怎么使用支付宝扫物功能进行翻译",
+      "function": "扫一扫物体翻译",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "翻译",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "打开支付宝，我需要扫描一个物体并且翻译它",
+      "function": "扫一扫物体翻译",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "翻译",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝扫一扫识别一个商品怎么操作",
+      "function": "扫一扫识别商品",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识商品",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请教如何用支付宝的扫一扫功能去识别我手头的这个商品",
+      "function": "扫一扫识别商品",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识商品",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝中，我要怎么扫描一个物品来获取商品信息呢",
+      "function": "扫一扫识别商品",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识商品",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝首页怎么扫植物",
+      "function": "扫一扫识别植物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识植物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝的扫一扫功能识别一下手里的植物",
+      "function": "扫一扫识别植物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识植物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我要用支付宝扫描一下这个植物，我应该怎么操作呢？",
+      "function": "扫一扫识别植物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识植物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我要用扫一扫来识别动物",
+      "function": "扫一扫识别动物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识动物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想识别一只动物，请帮我用支付宝的扫一扫功能",
+      "function": "扫一扫识别动物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识动物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何使用支付宝的扫一扫功能来识别一个动物？",
+      "function": "扫一扫识别动物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "识动物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝扫描周围的物品了解信息",
+      "function": "扫描识物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请教如何使用支付宝的扫一扫功能进行物品识别",
+      "function": "扫描识物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要用支付宝识别身边的物体，应该怎么操作呢",
+      "function": "扫描识物",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "识物",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "识物页面",
+          "instruct": "扫描物体",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想使用支付宝AR扫描功能",
+      "function": "AR扫描",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "AR",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "AR页面",
+          "instruct": "扫描AR",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我如何在支付宝里进行AR扫描",
+      "function": "AR扫描",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "AR",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "AR页面",
+          "instruct": "扫描AR",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要用支付宝扫描AR码，应该怎么操作",
+      "function": "AR扫描",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "AR",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "AR页面",
+          "instruct": "扫描AR",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想展示我的支付宝收款码给别人扫一扫付款",
+      "function": "展示收款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "收钱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收钱页面",
+          "instruct": "展示收款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "怎样在支付宝快速找到我的收款码?",
+      "function": "展示收款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "收钱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收钱页面",
+          "instruct": "展示收款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "支付宝上我要如何展示我的收款码进行收款?",
+      "function": "展示收款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "收钱",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收钱页面",
+          "instruct": "展示收款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝展示分期付款的二维码",
+      "function": "展示分期付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "分期付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "分期付款页面",
+          "instruct": "展示分期付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "怎样在支付宝里面找到分期付款码呢？",
+      "function": "展示分期付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "分期付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "分期付款页面",
+          "instruct": "展示分期付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请指导我如何在支付宝中获取分期付款二维码。",
+      "function": "展示分期付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "分期付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "分期付款页面",
+          "instruct": "展示分期付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我要用支付宝扫描相册中的二维码进行支付",
+      "function": "扫描相册图片支付",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "扫码付",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我如何使用支付宝的扫一扫功能来支付相册里的二维码",
+      "function": "扫描相册图片支付",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "扫码付",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要通过支付宝的相册选取图片来完成付款操作.",
+      "function": "扫描相册图片支付",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "扫码付",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我怎么用支付宝扫码付款",
+      "function": "扫码付款",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "扫码付",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我要付款，请问如何在支付宝进行扫码操作",
+      "function": "扫码付款",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "扫码付",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝首页，我应该怎么快速扫码支付呢？",
+      "function": "扫码付款",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "扫码付",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫一扫页面",
+          "instruct": "扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想出示付款码给收银员扫描",
+      "function": "展示付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "展示付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "怎么样才能快速展示我的支付宝付款码？",
+      "function": "展示付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "展示付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "支付宝里面，我要怎么操作才能显示我的付款码？",
+      "function": "展示付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "收付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "收付款页面",
+          "instruct": "展示付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想看我的公交码，应该怎么操作呢？",
+      "function": "查看公交码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "公交",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "公交码页面",
+          "instruct": "展示公交码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何在支付宝快速找到我的公交码呢？",
+      "function": "查看公交码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "公交",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "公交码页面",
+          "instruct": "展示公交码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要用公交码乘车，能告诉我在支付宝里怎么查看吗？",
+      "function": "查看公交码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "公交",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "公交码页面",
+          "instruct": "展示公交码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝扫地铁码",
+      "function": "查看地铁码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "地铁",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "地铁码页面",
+          "instruct": "展示地铁码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何在支付宝展示我的地铁码?",
+      "function": "查看地铁码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "地铁",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "地铁码页面",
+          "instruct": "展示地铁码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝中怎样快速查看地铁乘车码？",
+      "function": "查看地铁码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "地铁",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "地铁码页面",
+          "instruct": "展示地铁码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在支付宝里打车，怎么操作呢?",
+      "function": "打车服务",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车页面",
+          "instruct": "主动打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "支付宝app里怎么快速找到打车服务?",
+      "function": "打车服务",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车页面",
+          "instruct": "主动打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "打开支付宝，我想知道如何使用打车功能。",
+      "function": "打车服务",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "打车",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "打车页面",
+          "instruct": "主动打车",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想通过支付宝买火车票",
+      "function": "购买火车票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "12306",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "12306页面",
+          "instruct": "购买火车票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝里面怎么快速买到火车票呢?",
+      "function": "购买火车票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "12306",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "12306页面",
+          "instruct": "购买火车票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "使用支付宝，我应该怎样操作才能购买火车票？",
+      "function": "购买火车票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "12306",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "12306页面",
+          "instruct": "购买火车票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在支付宝上买机票，请告诉我如何操作",
+      "function": "购买机票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "机票",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "机票页面",
+          "instruct": "购买机票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要通过支付宝购买一张机票，怎么操作呢？",
+      "function": "购买机票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "机票",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "机票页面",
+          "instruct": "购买机票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "使用支付宝购买机票的步骤是什么？",
+      "function": "购买机票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "机票",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "机票页面",
+          "instruct": "购买机票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝扫码开一辆骑行的车",
+      "function": "骑行扫码开锁",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "骑行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "骑行页面",
+          "instruct": "扫码开锁",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码开锁页面",
+          "instruct": "扫码开锁",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝中，怎么快速找到骑行的扫码开锁功能呢？",
+      "function": "骑行扫码开锁",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "骑行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "骑行页面",
+          "instruct": "扫码开锁",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码开锁页面",
+          "instruct": "扫码开锁",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我在支付宝上操作到扫码开锁的步骤。",
+      "function": "骑行扫码开锁",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "骑行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "骑行页面",
+          "instruct": "扫码开锁",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "扫码开锁页面",
+          "instruct": "扫码开锁",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想在支付宝购买汽车票",
+      "function": "购买汽车票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "汽车票",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "汽车票页面",
+          "instruct": "购买汽车票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何通过支付宝订购汽车票呢？",
+      "function": "购买汽车票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "汽车票",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "汽车票页面",
+          "instruct": "购买汽车票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "怎么用支付宝买汽车票",
+      "function": "购买汽车票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "出行",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "出行页面",
+          "instruct": "汽车票",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "汽车票页面",
+          "instruct": "购买汽车票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想看一下我所有的优惠券",
+      "function": "查看优惠券",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "优惠券",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "优惠券页面",
+          "instruct": "查看优惠券",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我打开支付宝里面的优惠券界面我要检查一下",
+      "function": "查看优惠券",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "优惠券",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "优惠券页面",
+          "instruct": "查看优惠券",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要检查我的支付宝卡包里有什么优惠券。",
+      "function": "查看优惠券",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "优惠券",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "优惠券页面",
+          "instruct": "查看优惠券",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想看看我的会员卡都有哪些，请问应该怎么操作呢",
+      "function": "查看会员卡",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "会员卡",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "会员卡页面",
+          "instruct": "查看会员卡",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝里，我怎么快速查看我所有的会员卡信息啊",
+      "function": "查看会员卡",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "会员卡",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "会员卡页面",
+          "instruct": "查看会员卡",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我，如何在支付宝里找到并查看我的会员卡详情？",
+      "function": "查看会员卡",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "会员卡",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "会员卡页面",
+          "instruct": "查看会员卡",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要找到我的发票怎么查看；在支付宝里我想知道我的发票在哪里，怎么操作查看；请问怎么在支付宝里快速查看我所有的发票信息？",
+      "function": "查看发票",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "发票",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "发票页面",
+          "instruct": "查看发票",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想查看我在支付宝卡包里的证件",
+      "function": "查看卡包证件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "证件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "证件页面",
+          "instruct": "查看证件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我如何在支付宝里找到我的证件信息",
+      "function": "查看卡包证件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "证件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "证件页面",
+          "instruct": "查看证件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要在支付宝中查看我存储的各种证件,我该怎么操作？",
+      "function": "查看卡包证件",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "卡包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "卡包页面",
+          "instruct": "证件",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "证件页面",
+          "instruct": "查看证件",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝的荷包功能扫一扫，请问怎么操作？",
+      "function": "使用荷包扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "荷包扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要通过支付宝荷包进行扫码，该如何进入？",
+      "function": "使用荷包扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "荷包扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何在支付宝里使用荷包的扫一扫功能？",
+      "function": "使用荷包扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "荷包扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝的荷包功能扫描相册里的二维码",
+      "function": "使用荷包扫一扫从相册选择的图片",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请教我如何从支付宝的荷包中扫描手机相册里的图片",
+      "function": "使用荷包扫一扫从相册选择的图片",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何在支付宝里用荷包的扫一扫功能选取相册中的照片？",
+      "function": "使用荷包扫一扫从相册选择的图片",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "扫一扫",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想展示我的支付宝付款码，怎么操作呢",
+      "function": "查看支付宝荷包付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "展示付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我如何在支付宝上找到我的付款码",
+      "function": "查看支付宝荷包付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "展示付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要使用我的支付宝付款码，应该怎么查看？",
+      "function": "查看支付宝荷包付款码",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "展示付款码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用荷包里的付款码扫码支付",
+      "function": "使用荷包付款码扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "扫一扫付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "荷包扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我打开支付宝的荷包付款码，我要扫一扫付款",
+      "function": "使用荷包付款码扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "扫一扫付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "荷包扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要使用付款码进行扫码支付，请展示我的荷包付款码。",
+      "function": "使用荷包付款码扫一扫",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "扫一扫付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "荷包扫码",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想从荷包中使用扫码付款，请引导我如何操作",
+      "function": "使用荷包扫码付款",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "扫一扫付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要用荷包里的扫码支付功能，该怎么做呢？",
+      "function": "使用荷包扫码付款",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "扫一扫付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "从支付宝荷包里，我想用扫一扫来付款，步骤是怎样的？",
+      "function": "使用荷包扫码付款",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "付款码",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包付款码页面",
+          "instruct": "扫一扫付款",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包扫码页面",
+          "instruct": "相册",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包相册页面",
+          "instruct": "选择图片",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想往我的支付宝荷包里转100块钱做生活费",
+      "function": "转入荷包",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转入",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "转入金额",
+          "action": "type",
+          "parameter": "100"
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "转入说明",
+          "action": "type",
+          "parameter": "生活费"
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "确认转入",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我操作我支付宝里的荷包进行转入操作，金额为200元，备注为存款",
+      "function": "转入荷包",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转入",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "转入金额",
+          "action": "type",
+          "parameter": "200"
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "转入说明",
+          "action": "type",
+          "parameter": "存款"
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "确认转入",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝中我需要将1000元钱转入我的荷包，帮我完成这个操作吧。",
+      "function": "转入荷包",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转入",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "转入金额",
+          "action": "type",
+          "parameter": "1000"
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "转入说明",
+          "action": "type",
+          "parameter": "无"
+        },
+        {
+          "pageName": "荷包转入页面",
+          "instruct": "确认转入",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想把500元从支付宝的荷包里转出来到我自己的账户里",
+      "function": "荷包转出给自己",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转出",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转出页面",
+          "instruct": "转给自己",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "转出金额",
+          "action": "type",
+          "parameter": "500"
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "转出理由",
+          "action": "type",
+          "parameter": "无"
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "确认转出",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "能不能帮我操作一下从支付宝荷包里转200元钱给我自己呢？备注是水电支出",
+      "function": "荷包转出给自己",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转出",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转出页面",
+          "instruct": "转给自己",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "转出金额",
+          "action": "type",
+          "parameter": "200"
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "转出理由",
+          "action": "type",
+          "parameter": "水电支出"
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "确认转出",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何操作把钱从支付宝荷包转给自己？我想转出300元。",
+      "function": "荷包转出给自己",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转出",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转出页面",
+          "instruct": "转给自己",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "转出金额",
+          "action": "type",
+          "parameter": "300"
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "转出理由",
+          "action": "type",
+          "parameter": "无"
+        },
+        {
+          "pageName": "转给自己页面",
+          "instruct": "确认转出",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想给朋友转账，请问怎么从荷包里转给别人，金额为500元，账户为12345678",
+      "function": "荷包转账到他人支付宝账户",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转出",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转出页面",
+          "instruct": "转给他人",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "支付宝账户",
+          "action": "type",
+          "parameter": "12345678"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "转出金额",
+          "action": "type",
+          "parameter": "500"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "转出理由",
+          "action": "type",
+          "parameter": "无"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "确认转出",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要从我的支付宝荷包向朋友的账户34567890转800块钱，备注为借款",
+      "function": "荷包转账到他人支付宝账户",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转出",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转出页面",
+          "instruct": "转给他人",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "支付宝账户",
+          "action": "type",
+          "parameter": "34567890"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "转出金额",
+          "action": "type",
+          "parameter": "800"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "转出理由",
+          "action": "type",
+          "parameter": "借款"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "确认转出",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何操作将钱从支付宝荷包转出到别人的账户里呢？账户是987654321，我想转1000元，备注为捐款。",
+      "function": "荷包转账到他人支付宝账户",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "支付宝荷包",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "支付宝荷包页面",
+          "instruct": "荷包类型",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包详情页面",
+          "instruct": "转出",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "荷包转出页面",
+          "instruct": "转给他人",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "支付宝账户",
+          "action": "type",
+          "parameter": "987654321"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "转出金额",
+          "action": "type",
+          "parameter": "1000"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "转出理由",
+          "action": "type",
+          "parameter": "捐款"
+        },
+        {
+          "pageName": "转给他人页面",
+          "instruct": "确认转出",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想给别人转账，请问应该怎么操作？支付宝账户名为135792468，金额为800，备注为红包",
+      "function": "转账到支付宝账户",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "点击输入框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账搜索页面",
+          "instruct": "输入支付宝账户",
+          "action": "type",
+          "parameter": "135792468"
+        },
+        {
+          "pageName": "转账搜索页面",
+          "instruct": "选择搜索内容",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "800"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "添加备注",
+          "action": "type",
+          "parameter": "红包"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要转10元给朋友的支付宝账户246813579，教我怎么做吧。",
+      "function": "转账到支付宝账户",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "点击输入框",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账搜索页面",
+          "instruct": "输入支付宝账户",
+          "action": "type",
+          "parameter": "246813579"
+        },
+        {
+          "pageName": "转账搜索页面",
+          "instruct": "选择搜索内容",
+          "action": "select",
+          "parameter": ""
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "10"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "添加备注",
+          "action": "type",
+          "parameter": "无"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想通过支付宝转账300元给朋友，账户是19283746，备注为还款",
+      "function": "转账到对方支付宝账户",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转到支付宝",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转到支付宝页面",
+          "instruct": "对方账户",
+          "action": "type",
+          "parameter": "19283746"
+        },
+        {
+          "pageName": "转到支付宝页面",
+          "instruct": "下一步",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "300"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "添加备注",
+          "action": "type",
+          "parameter": "还款"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我怎样用支付宝转账3000块钱到别人账户，账户是147258369，备注为份子钱",
+      "function": "转账到对方支付宝账户",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转到支付宝",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转到支付宝页面",
+          "instruct": "对方账户",
+          "action": "type",
+          "parameter": "147258369"
+        },
+        {
+          "pageName": "转到支付宝页面",
+          "instruct": "下一步",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "3000"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "添加备注",
+          "action": "type",
+          "parameter": "份子钱"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "支付宝转账功能在哪里？我需要给别人转500元钱。支付宝账户为258147369，备注为AA",
+      "function": "转账到对方支付宝账户",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转到支付宝",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转到支付宝页面",
+          "instruct": "对方账户",
+          "action": "type",
+          "parameter": "258147369"
+        },
+        {
+          "pageName": "转到支付宝页面",
+          "instruct": "下一步",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "500"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "添加备注",
+          "action": "type",
+          "parameter": "AA"
+        },
+        {
+          "pageName": "实际转账页面",
+          "instruct": "转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我需要把3000元钱转到房东张婷的银行卡，卡号是6228481234567890，备注房租",
+      "function": "转账到银行卡",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转到银行卡",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "姓名",
+          "action": "type",
+          "parameter": "张婷"
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "卡号",
+          "action": "type",
+          "parameter": "6228481234567890"
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "下一步",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "3000"
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "转账留言",
+          "action": "type",
+          "parameter": "房租"
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "确认转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "告诉我怎样在支付宝里给银行卡转账，卡号为987654321234567，姓名为小李，金额为300，备注为生日礼物",
+      "function": "转账到银行卡",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转到银行卡",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "姓名",
+          "action": "type",
+          "parameter": "小李"
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "卡号",
+          "action": "type",
+          "parameter": "987654321234567"
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "下一步",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "300"
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "转账留言",
+          "action": "type",
+          "parameter": "生日礼物"
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "确认转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我要操作支付宝进行银行卡转账，请指导我怎么做，账户姓名为小孙，卡号为6228489876543210，转账金额为200元，备注为借款",
+      "function": "转账到银行卡",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转到银行卡",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "姓名",
+          "action": "type",
+          "parameter": "小孙"
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "卡号",
+          "action": "type",
+          "parameter": "6228489876543210"
+        },
+        {
+          "pageName": "转到银行卡页面",
+          "instruct": "下一步",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "200"
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "转账留言",
+          "action": "type",
+          "parameter": "借款"
+        },
+        {
+          "pageName": "银行卡实际转账页面",
+          "instruct": "确认转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想用支付宝转账到其他app，金额为100元，请教我怎么操作",
+      "function": "转账到其他APP",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转其他APP",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转其他APP页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "100"
+        },
+        {
+          "pageName": "转其他APP页面",
+          "instruct": "确认转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "通过支付宝我要给其他app的账号转账，步骤是什么？转账金额为50元",
+      "function": "转账到其他APP",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转其他APP",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转其他APP页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "50"
+        },
+        {
+          "pageName": "转其他APP页面",
+          "instruct": "确认转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "支付宝里怎么转账到我其他的app账户里，帮忙指导下步骤，转账金额为300元",
+      "function": "转账到其他APP",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "转账",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转账页面",
+          "instruct": "转其他APP",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "转其他APP页面",
+          "instruct": "转账金额",
+          "action": "type",
+          "parameter": "300"
+        },
+        {
+          "pageName": "转其他APP页面",
+          "instruct": "确认转账",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想要看一下我的账单详情",
+      "function": "查看账单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "账单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "账单页面",
+          "instruct": "查看账单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请问如何在支付宝里查看我的消费记录呢？",
+      "function": "查看账单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "账单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "账单页面",
+          "instruct": "查看账单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝中，我应该怎么去查看我的账单呢？",
+      "function": "查看账单",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "账单",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "账单页面",
+          "instruct": "查看账单",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想查看支付宝账户的余额情况",
+      "function": "查看余额",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "余额",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额页面",
+          "instruct": "查看余额",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "在支付宝里怎么能看到我的余额呢？",
+      "function": "查看余额",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "余额",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额页面",
+          "instruct": "查看余额",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请告诉我如何在支付宝查看我当前的账户余额。",
+      "function": "查看余额",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "余额",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额页面",
+          "instruct": "查看余额",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "我想从支付宝余额里提现1000元到我的银行卡",
+      "function": "提现余额",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "余额",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额页面",
+          "instruct": "提现",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额提现页面",
+          "instruct": "提现金额",
+          "action": "type",
+          "parameter": "1000"
+        },
+        {
+          "pageName": "余额提现页面",
+          "instruct": "确认提现",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "请帮我在支付宝里提现余额300元到银行卡",
+      "function": "提现余额",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "余额",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额页面",
+          "instruct": "提现",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额提现页面",
+          "instruct": "提现金额",
+          "action": "type",
+          "parameter": "300"
+        },
+        {
+          "pageName": "余额提现页面",
+          "instruct": "确认提现",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    },
+    {
+      "query": "如何操作支付宝余额提现500元到我的账户呢?",
+      "function": "提现余额",
+      "answer": [
+        {
+          "pageName": "首页",
+          "instruct": "我的",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "个人页面",
+          "instruct": "余额",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额页面",
+          "instruct": "提现",
+          "action": "click",
+          "parameter": ""
+        },
+        {
+          "pageName": "余额提现页面",
+          "instruct": "提现金额",
+          "action": "type",
+          "parameter": "500"
+        },
+        {
+          "pageName": "余额提现页面",
+          "instruct": "确认提现",
+          "action": "human",
+          "parameter": ""
+        }
+      ]
+    }
+  ]
+}

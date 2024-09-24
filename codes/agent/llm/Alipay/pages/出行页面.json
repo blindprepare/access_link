@@ -1,0 +1,53 @@
+{
+  "pageName": "出行页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "公交",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交码页面"
+    },
+    {
+      "action": "地铁",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "地铁码页面"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面"
+    },
+    {
+      "action": "12306",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "12306页面"
+    },
+    {
+      "action": "机票",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "机票页面"
+    },
+    {
+      "action": "骑行",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "骑行页面"
+    },
+    {
+      "action": "汽车票",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "汽车票页面"
+    }
+  ]
+}

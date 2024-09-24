@@ -1,0 +1,42 @@
+{
+  "pageName": "收付款页面",
+  "page": "com.alipay.mobile.onsitepay.merge.OnsitepayActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "收钱",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收钱页面",
+      "path": "0,0,0,1,1,0,1,0"
+    },
+    {
+      "action": "分期付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "分期付款页面",
+      "path": "0,0,0,1,1,0,1,1"
+    },
+    {
+      "action": "扫码付",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫一扫页面",
+      "path": "0,0,0,1,1,0,1,2"
+    },
+    {
+      "action": "展示付款码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "收付款页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0"
+    }
+  ]
+}

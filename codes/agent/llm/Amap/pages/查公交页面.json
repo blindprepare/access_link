@@ -1,0 +1,23 @@
+{
+  "pageName": "查公交页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁页面"
+    },
+    {
+      "action": "输入公交路线、站点",
+      "type": "输入动作",
+      "parameter": "公交路线、站点",
+      "nextPage": "查公交页面"
+    },
+    {
+      "action": "搜索公交路线、站点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果页面"
+    }
+  ]
+}

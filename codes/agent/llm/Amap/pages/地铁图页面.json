@@ -1,0 +1,17 @@
+{
+  "pageName": "地铁图页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁页面"
+    },
+    {
+      "action": "查看地铁图",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "地铁图页面"
+    }
+  ]
+}

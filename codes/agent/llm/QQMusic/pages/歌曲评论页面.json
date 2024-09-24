@@ -1,0 +1,23 @@
+{
+  "pageName": "歌曲评论页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "播放歌曲页面"
+    },
+    {
+      "action": "发表评论",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲评论页面"
+    },
+    {
+      "action": "查看评论",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲评论页面"
+    }
+  ]
+}

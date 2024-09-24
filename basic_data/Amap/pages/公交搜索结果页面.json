@@ -1,0 +1,21 @@
+{
+  "pageName": "公交搜索结果页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "查公交页面",
+      "path": "0,0,0,0,6,0,0,1,0,0"
+    },
+    {
+      "action": "筛选公交搜索结果",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,2,0,0,0"
+    }
+  ]
+}

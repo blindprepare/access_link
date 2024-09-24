@@ -1,0 +1,41 @@
+{
+  "pageName": "个人详情页面",
+  "actionList": [
+    {
+      "action": "点击直播",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "直播页面"
+    },
+    {
+      "action": "点击雷达",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "播放歌曲页面"
+    },
+    {
+      "action": "点击首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "点击收藏",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲收藏页面"
+    },
+    {
+      "action": "点击本地",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "本地下载详情页面"
+    },
+    {
+      "action": "点击最近播放",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "最近播放页面"
+    }
+  ]
+}

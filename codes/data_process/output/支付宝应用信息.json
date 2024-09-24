@@ -1,0 +1,1411 @@
+{
+  "pages": [{
+  "pageName": "识物页面",
+  "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "识万物",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面",
+      "path": "0,0,0,1,1,1,0,0,0,1"
+    },
+    {
+      "action": "识车牌",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面",
+      "path": "0,0,0,1,1,1,0,0,1,1"
+    },
+    {
+      "action": "翻译",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面",
+      "path": "0,0,0,1,1,1,0,0,2,1"
+    },
+    {
+      "action": "识商品",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面",
+      "path": "0,0,0,1,1,1,0,0,3,1"
+    },
+    {
+      "action": "识植物",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面",
+      "path": "0,0,0,1,1,1,0,0,4,1"
+    },
+    {
+      "action": "识动物",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面",
+      "path": "0,0,0,1,1,1,0,0,5,1"
+    },
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,3,0"
+    },
+    {
+      "action": "扫描物体",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交码页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "展示公交码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交码页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "汽车票页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "购买汽车票",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "汽车票页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "余额页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "查看余额",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "余额页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "转账",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面",
+      "path": "0,0,2,0,0,1,1,0,0,0,0,0"
+    },
+    {
+      "action": "小荷包",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "支付宝荷包页面",
+      "path": "0,0,2,0,3,1,1,0,0,0,0,0"
+    },
+    {
+      "action": "提现",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "余额提现页面",
+      "path": "0,0,1,0,2,0,1,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "会员卡页面",
+  "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看会员卡",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "会员卡页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "转账页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "点击输入框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账搜索页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,6"
+    },
+    {
+      "action": "转到支付宝",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转到支付宝页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,7,0"
+    },
+    {
+      "action": "转到银行卡",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转到银行卡页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,8,2"
+    },
+    {
+      "action": "转其他APP",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转其他APP页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,9"
+    }
+  ]
+}
+,
+{
+  "pageName": "荷包详情页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "支付宝荷包页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "扫一扫",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包扫码页面",
+      "path": "0,0,0,1,0,2,0,1,0,2,0,0,1,0"
+    },
+    {
+      "action": "付款码",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包付款码页面",
+      "path": "0,0,0,1,0,2,0,2,0,2,0,0,1,0"
+    },
+    {
+      "action": "转入",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包转入页面",
+      "path": "0,0,0,0,0,2,0,2,0,2,0,0,1,0"
+    },
+    {
+      "action": "转出",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包转出页面",
+      "path": "0,0,0,0,0,2,0,2,0,2,0,0,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "相册页面",
+  "page": "com.alipay.mobile.beehive.photo.ui.PhotoSelectActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫一扫页面",
+      "path": "0,0,0,0,0"
+    },
+    {
+      "action": "选择图片",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "相册页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "卡包页面",
+  "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "优惠券",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠券页面",
+      "path": "0,0,0,2,0,0,1,0,1,0,0,0,0,0"
+    },
+    {
+      "action": "会员卡",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "会员卡页面",
+      "path": "0,0,0,2,0,0,1,0,1,0,0,1,0,0"
+    },
+    {
+      "action": "发票",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "发票页面",
+      "path": "0,0,0,2,0,0,1,0,1,0,0,2,0,0"
+    },
+    {
+      "action": "证件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "证件页面",
+      "path": "0,0,0,2,0,0,1,0,1,0,0,3,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "转给自己页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "转出金额",
+      "type": "输入动作",
+      "parameter": "转出金额",
+      "nextPage": "转给自己页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,4,0,1"
+    },
+    {
+      "action": "转出理由",
+      "type": "输入动作",
+      "parameter": "转出理由",
+      "nextPage": "转给自己页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,7,0,0,0,1"
+    },
+    {
+      "action": "确认转出",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "转给自己页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "转给他人页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "支付宝账户",
+      "type": "输入动作",
+      "parameter": "支付宝账户",
+      "nextPage": "转给他人页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,1,2,1"
+    },
+    {
+      "action": "转出金额",
+      "type": "输入动作",
+      "parameter": "转出金额",
+      "nextPage": "转给他人页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,4,0,1"
+    },
+    {
+      "action": "转出理由",
+      "type": "输入动作",
+      "parameter": "转出理由",
+      "nextPage": "转给他人页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,7,0,0,0,1"
+    },
+    {
+      "action": "确认转出",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "转给他人页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "荷包扫码页面",
+  "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,0,0,1,2,0"
+    },
+    {
+      "action": "荷包扫码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包扫码页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "相册",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包相册页面",
+      "path": "0,0,0,1,5,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "银行卡实际转账页面",
+  "page": "com.alipay.mobile.transferapp.ui.TFToCardConfirmCubeActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转到银行卡页面",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "转账金额",
+      "type": "输入动作",
+      "parameter": "转账金额",
+      "nextPage": "银行卡实际转账页面",
+      "path": "0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1"
+    },
+    {
+      "action": "转账留言",
+      "type": "输入动作",
+      "parameter": "转账留言",
+      "nextPage": "银行卡实际转账页面",
+      "path": "0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0"
+    },
+    {
+      "action": "确认转账",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "转到银行卡页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "首页",
+  "page": "com.eg.android.AlipayGphone.AlipayLogin",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "扫一扫",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫一扫页面",
+      "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,1,0,1"
+    },
+    {
+      "action": "收付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收付款页面",
+      "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,1,1,1"
+    },
+    {
+      "action": "出行",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "出行页面",
+      "path": "0,0,0,0,0,0,0,0,1,2,1,0,0,1,2,0,0,0,0,0"
+    },
+    {
+      "action": "卡包",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "卡包页面",
+      "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,1,3,1"
+    },
+    {
+      "action": "支付宝荷包",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "支付宝荷包页面",
+      "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,1,1,0,0,0,0,0"
+    },
+    {
+      "action": "转账",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面",
+      "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,1,1,0,0,3,1,0"
+    },
+    {
+      "action": "首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,1,1,0,0"
+    },
+    {
+      "action": "理财",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "理财页面",
+      "path": "0,0,0,0,0,1,1,1,3"
+    },
+    {
+      "action": "生活",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "生活页面",
+      "path": "0,0,0,0,0,1,1,2,2"
+    },
+    {
+      "action": "消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,0,0,1,1,3,1"
+    },
+    {
+      "action": "我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人页面",
+      "path": "0,0,0,0,0,1,1,4,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "打车页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "主动打车",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "12306页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "购买火车票",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "12306页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "分期付款页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收付款页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "展示分期付款码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "分期付款页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "AR页面",
+  "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,1,0"
+    },
+    {
+      "action": "扫描AR",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "AR页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "优惠券页面",
+  "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看优惠券",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "优惠券页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "扫码开锁页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "骑行页面",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "扫码开锁",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "扫码开锁页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "扫一扫页面",
+  "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "收付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收付款页面",
+      "path": "0,0,0,1,5,1"
+    },
+    {
+      "action": "相册",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "相册页面",
+      "path": "0,0,0,1,6,1"
+    },
+    {
+      "action": "扫码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "扫一扫页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "识物",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "识物页面",
+      "path": "0,0,0,1,7,1,0"
+    },
+    {
+      "action": "AR",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "AR页面",
+      "path": "0,0,0,1,7,2,0"
+    },
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,2,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "荷包转出页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "转给自己",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转给自己页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,2,0,0,0"
+    },
+    {
+      "action": "转给他人",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转给他人页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,2,1,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "账单页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "查看账单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "账单页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "支付宝荷包页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,2,1,0"
+    },
+    {
+      "action": "荷包类型",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,1,2,1,0,0,1,0,1,0,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "荷包转入页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "转入金额",
+      "type": "输入动作",
+      "parameter": "转入金额",
+      "nextPage": "荷包转入页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,1,2,0,1"
+    },
+    {
+      "action": "转入说明",
+      "type": "输入动作",
+      "parameter": "转入说明",
+      "nextPage": "荷包转入页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,1,5,0,0,0,1"
+    },
+    {
+      "action": "确认转入",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包转入页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "收付款页面",
+  "page": "com.alipay.mobile.onsitepay.merge.OnsitepayActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "收钱",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收钱页面",
+      "path": "0,0,0,1,1,0,1,0"
+    },
+    {
+      "action": "分期付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "分期付款页面",
+      "path": "0,0,0,1,1,0,1,1"
+    },
+    {
+      "action": "扫码付",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫一扫页面",
+      "path": "0,0,0,1,1,0,1,2"
+    },
+    {
+      "action": "展示付款码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "收付款页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "出行页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "公交",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交码页面",
+      "path": "0,0,0,1,0,0,0,1,1,0,2,0"
+    },
+    {
+      "action": "地铁",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "地铁码页面",
+      "path": "0,0,0,1,0,0,0,1,1,0,3,0"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面",
+      "path": "0,0,0,1,0,0,0,1,1,0,4,0"
+    },
+    {
+      "action": "12306",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "12306页面",
+      "path": "0,0,0,1,0,0,0,1,1,0,5,0"
+    },
+    {
+      "action": "机票",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "机票页面",
+      "path": "0,0,0,1,0,0,0,1,1,0,6,0"
+    },
+    {
+      "action": "骑行",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "骑行页面",
+      "path": "0,0,0,1,0,0,0,1,1,0,7,0"
+    },
+    {
+      "action": "汽车票",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "汽车票页面",
+      "path": "0,0,0,1,0,0,0,1,1,0,8,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "转账搜索页面",
+  "page": "com.alipay.android.phone.businesscommon.globalsearch.ui.MainSearchActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面",
+      "path": "0,0,0,0,1,1,0,0,0,0"
+    },
+    {
+      "action": "输入支付宝账户",
+      "type": "输入动作",
+      "parameter": "输入手机号、银行卡号、联系人姓名转账",
+      "nextPage": "转账搜索页面",
+      "path": "0,0,0,0,1,1,0,0,0,1,2"
+    },
+    {
+      "action": "选择搜索内容",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "实际转账页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "余额提现页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "余额页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "提现金额",
+      "type": "输入动作",
+      "parameter": "输入提现金额",
+      "nextPage": "余额提现页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0"
+    },
+    {
+      "action": "确认提现",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "余额提现页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "收钱页面",
+  "page": "com.alipay.mobile.payee.ui.PayeeQRActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收付款页面",
+      "path": "0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "展示收款码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "收钱页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "证件页面",
+  "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看证件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "证件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "骑行页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "扫码开锁",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫码开锁页面",
+      "path": "0,0,0,0,0,0,0,1,1,0,0,0,2,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "实际转账页面",
+  "page": "com.alipay.mobile.transferapp.ui.TFToAccountConfirmMainActivityNew",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账搜索页面",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "转账金额",
+      "type": "输入动作",
+      "parameter": "输入转账金额",
+      "nextPage": "实际转账页面",
+      "path": "0,0,0,1,1,0,0,1,1,0,1"
+    },
+    {
+      "action": "添加备注",
+      "type": "输入动作",
+      "parameter": "输入备注信息",
+      "nextPage": "实际转账页面",
+      "path": "0,0,0,1,1,0,0,2,0,0,1,0,0,0"
+    },
+    {
+      "action": "转账",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "实际转账页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "转到银行卡页面",
+  "page": "com.alipay.mobile.transferapp.ui.TFToCardFormCubeActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "姓名",
+      "type": "输入动作",
+      "parameter": "输入收款人姓名",
+      "nextPage": "转到银行卡页面",
+      "path": "0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0"
+    },
+    {
+      "action": "卡号",
+      "type": "输入动作",
+      "parameter": "输入收款人卡号",
+      "nextPage": "转到银行卡页面",
+      "path": "0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0"
+    },
+    {
+      "action": "下一步",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "银行卡实际转账页面",
+      "path": "0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "发票页面",
+  "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看发票",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "发票页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "机票页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "购买机票",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "12306页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "荷包相册页面",
+  "page": "com.alipay.mobile.beehive.photo.ui.PhotoSelectActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包扫码页面",
+      "path": "0,0,0,0,0"
+    },
+    {
+      "action": "选择图片",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包相册页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "个人页面",
+  "page": "com.eg.android.AlipayGphone.AlipayLogin",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,1,1,0,0"
+    },
+    {
+      "action": "理财",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "理财页面",
+      "path": "0,0,0,0,0,1,1,1,3"
+    },
+    {
+      "action": "生活",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "生活页面",
+      "path": "0,0,0,0,0,1,1,2,2"
+    },
+    {
+      "action": "消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,0,0,1,1,3,1"
+    },
+    {
+      "action": "我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人页面",
+      "path": "0,0,0,0,0,1,1,4,1"
+    },
+    {
+      "action": "账单",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "账单页面",
+      "path": "0,0,0,0,0,0,0,0,3,0,0"
+    },
+    {
+      "action": "余额",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "余额页面",
+      "path": "0,0,0,0,0,0,0,0,3,2,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "荷包付款码页面",
+  "page": "com.alipay.mobile.antui.dialog.AUProgressDialog",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,0,0,1,0,0"
+    },
+    {
+      "action": "展示付款码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包付款码页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "扫一扫付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包扫码页面",
+      "path": "0,0,0,1,1,0,1,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "转到支付宝页面",
+  "page": "com.alipay.mobile.transferapp.ui.TFToAccountInputSearchActivity_",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "对方账户",
+      "type": "输入动作",
+      "parameter": "输入支付宝账户/手机号",
+      "nextPage": "转到支付宝页面",
+      "path": "0,0,0,1,0,1"
+    },
+    {
+      "action": "下一步",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "实际转账页面",
+      "path": "0,0,0,2,0,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "地铁码页面",
+  "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,1,0,0,0,0"
+    },
+    {
+      "action": "展示地铁码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "地铁码页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "转其他APP页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity$XRiverLite1",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "转账金额",
+      "type": "输入动作",
+      "parameter": "输入转账金额",
+      "nextPage": "转其他APP页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,1,3,1,0"
+    },
+    {
+      "action": "确认转账",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "转其他APP页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "余额充值页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "余额页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "充值金额",
+      "type": "输入动作",
+      "parameter": "输入充值金额",
+      "nextPage": "余额充值页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,2,1"
+    },
+    {
+      "action": "确认充值",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "余额充值页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+  ]
+}

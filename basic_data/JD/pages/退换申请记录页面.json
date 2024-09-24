@@ -1,0 +1,42 @@
+{
+  "pageName": "退换申请记录页面",
+  "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面",
+      "path": "0,0,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看退换申请记录",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "退换申请记录页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "点击售后申请",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,0"
+    },
+    {
+      "action": "点击处理中",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换处理中页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,1"
+    },
+    {
+      "action": "点击待评价",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换待评价页面",
+      "path": "0,0,0,0,0,0,0,0,0,1,0,2"
+    }
+  ]
+}

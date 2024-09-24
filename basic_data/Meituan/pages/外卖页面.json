@@ -1,0 +1,21 @@
+{
+  "pageName": "外卖页面",
+  "page": "com.sankuai.waimai.business.page.homepage.TakeoutActivity",
+  "package": "com.sankuai.meituan",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,2,0,1"
+    },
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索外卖页面",
+      "path": "0,0,0,0,0,0,0,2,0,2,0,0,0"
+    }
+  ]
+}

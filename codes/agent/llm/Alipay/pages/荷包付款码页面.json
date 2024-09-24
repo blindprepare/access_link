@@ -1,0 +1,23 @@
+{
+  "pageName": "荷包付款码页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面"
+    },
+    {
+      "action": "展示付款码",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包付款码页面"
+    },
+    {
+      "action": "扫一扫付款",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包扫码页面"
+    }
+  ]
+}

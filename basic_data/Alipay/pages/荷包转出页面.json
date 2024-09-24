@@ -1,0 +1,28 @@
+{
+  "pageName": "荷包转出页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包详情页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "转给自己",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转给自己页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,2,0,0,0"
+    },
+    {
+      "action": "转给他人",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转给他人页面",
+      "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,2,1,0,0"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pageName": "荷包详情页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "支付宝荷包页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "扫一扫",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包扫码页面",
+      "path": "0,0,0,1,0,2,0,1,0,2,0,0,1,0"
+    },
+    {
+      "action": "付款码",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包付款码页面",
+      "path": "0,0,0,1,0,2,0,2,0,2,0,0,1,0"
+    },
+    {
+      "action": "转入",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包转入页面",
+      "path": "0,0,0,0,0,2,0,2,0,2,0,0,1,0"
+    },
+    {
+      "action": "转出",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包转出页面",
+      "path": "0,0,0,0,0,2,0,2,0,2,0,0,0,0"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "pageName": "首页",
+  "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,2,0,0"
+    },
+    {
+      "action": "收件箱",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收件箱页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,5"
+    },
+    {
+      "action": "星标邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,6"
+    },
+    {
+      "action": "通讯录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,9"
+    },
+    {
+      "action": "已发送",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,15"
+    },
+    {
+      "action": "草稿箱",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,16"
+    },
+    {
+      "action": "已删除",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,17"
+    }
+  ]
+}

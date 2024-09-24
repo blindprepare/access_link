@@ -1,0 +1,17 @@
+{
+  "pageName": "账单页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人页面"
+    },
+    {
+      "action": "查看账单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "账单页面"
+    }
+  ]
+}

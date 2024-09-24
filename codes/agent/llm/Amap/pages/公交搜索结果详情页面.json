@@ -1,0 +1,47 @@
+{
+  "pageName": "公交搜索结果详情页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果页面"
+    },
+    {
+      "action": "分享位置",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面"
+    },
+    {
+      "action": "查看位置介绍",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面"
+    },
+    {
+      "action": "导航",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交导航页面"
+    },
+    {
+      "action": "路线",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交路线信息页面"
+    },
+    {
+      "action": "周边",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交周边信息页面"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交打车页面"
+    }
+  ]
+}

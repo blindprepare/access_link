@@ -1,0 +1,746 @@
+{
+  "pages": [{
+  "pageName": "星标邮件详情页面",
+  "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "阅读邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "给联系人写邮件页面",
+  "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人详情页面",
+      "path": "0,0,0,0,0,1,0,1,0,0,0,1,0,0,1"
+    },
+    {
+      "action": "写邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "给联系人写邮件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "星标邮件写邮件页面",
+  "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件页面",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件写邮件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "邮件详情页面",
+  "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收件箱页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "阅读邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "邮件详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "通讯录联系人往来邮件详情页面",
+  "page": "com.tencent.qqmail.activity.readmail.ReadMailActivityl",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录联系人往来邮件页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "阅读邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录联系人往来邮件详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "已删除写邮件页面",
+  "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除页面",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除写邮件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "已发送写邮件页面",
+  "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送页面",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送写邮件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "写邮件页面",
+  "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收件箱页面",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "写邮件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "搜索页面",
+  "page": "com.tencent.qqmail.search.SearchActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "取消",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,1,0,2,0,1"
+    },
+    {
+      "action": "邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "邮件搜索页面",
+      "path": "0,0,0,0,0,0,0,1,0,0,1"
+    },
+    {
+      "action": "通讯录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人搜索页面",
+      "path": "0,0,0,0,0,0,0,1,0,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "收件箱页面",
+  "page":"com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "邮件详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "写邮件页面",
+      "path": "0,0,0,0,0,0,0,0,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "首页",
+  "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,2,0,0"
+    },
+    {
+      "action": "收件箱",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "收件箱页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,5"
+    },
+    {
+      "action": "星标邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,6"
+    },
+    {
+      "action": "通讯录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,9"
+    },
+    {
+      "action": "已发送",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,15"
+    },
+    {
+      "action": "草稿箱",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,16"
+    },
+    {
+      "action": "已删除",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,17"
+    }
+  ]
+}
+,
+{
+  "pageName": "已发送页面",
+  "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送邮件详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送写邮件页面",
+      "path": "0,0,0,0,0,0,0,0,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "草稿箱写邮件页面",
+  "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱页面",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱写邮件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "通讯录联系人详情页面",
+  "page": "com.tencent.qqmail.activity.contacts2.ContactDetailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录页面",
+      "path": "0,0,0,0,0,0,0,1,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "给通讯录联系人写邮件页面",
+      "path": "0,0,0,0,0,0,0,2,0"
+    },
+    {
+      "action": "往来邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录联系人往来邮件页面",
+      "path": "0,0,0,0,0,0,0,2,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "星标邮件页面",
+  "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,0"
+    },
+    {
+      "action": "星标邮件写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "星标邮件写邮件页面",
+      "path": "0,0,0,0,0,0,0,0,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "联系人搜索页面",
+  "page": "com.tencent.qqmail.search.SearchSubActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "取消",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,1,0,0,2"
+    },
+    {
+      "action": "输入联系人",
+      "type": "输入动作",
+      "parameter": "联系人信息",
+      "nextPage": "联系人搜索页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,0,1"
+    },
+    {
+      "action": "筛选联系人",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人详情页面",
+      "path": "0,0,0,0,0,0,0,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "联系人往来邮件页面",
+  "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人详情页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人往来邮件详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "给通讯录联系人写邮件页面",
+  "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录联系人详情页面",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "给通讯录联系人写邮件页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "通讯录联系人往来邮件页面",
+  "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录联系人详情页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录联系人往来邮件详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "邮件搜索页面",
+  "page": "com.tencent.qqmail.search.SearchSubActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "取消",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,1,0,0,2"
+    },
+    {
+      "action": "输入邮件信息",
+      "type": "输入动作",
+      "parameter": "邮件信息",
+      "nextPage": "邮件搜索页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "邮件搜索详情页面",
+      "path": "0,0,0,0,0,0,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "已发送邮件详情页面",
+  "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "阅读邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "已发送邮件详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "草稿箱邮件详情页面",
+  "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "阅读邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱邮件详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "通讯录页面",
+  "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选联系人",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "通讯录联系人详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "草稿箱页面",
+  "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱邮件详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "草稿箱写邮件页面",
+      "path": "0,0,0,0,0,0,0,0,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "联系人详情页面",
+  "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人搜索页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "给联系人写邮件页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0"
+    },
+    {
+      "action": "往来邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人往来邮件页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,0,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "邮件搜索详情页面",
+  "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "邮件搜索页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "阅读邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "邮件搜索详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "已删除页面",
+  "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "筛选邮件",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除邮件详情页面",
+      "path": "0,0,0,0,0,0,0,0,1,0"
+    },
+    {
+      "action": "写邮件",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除写邮件页面",
+      "path": "0,0,0,0,0,0,0,0,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "联系人往来邮件详情页面",
+  "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人往来邮件页面",
+      "path": "0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "阅读邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "联系人往来邮件详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "已删除邮件详情页面",
+  "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity",
+  "package": "com.tencent.androidqqmail",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除页面",
+      "path": "0,0,0,0,0,0,0,0,0,1"
+    },
+    {
+      "action": "阅读邮件",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "已删除邮件详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+  ]
+}

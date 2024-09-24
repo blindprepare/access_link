@@ -1,0 +1,35 @@
+{
+  "pageName": "退换页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "我的页面"
+    },
+    {
+      "action": "查看退换订单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "退换页面"
+    },
+    {
+      "action": "点击处理中",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换处理中页面"
+    },
+    {
+      "action": "点击待评价",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换待评价页面"
+    },
+    {
+      "action": "点击申请记录",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "退换申请记录页面"
+    }
+  ]
+}

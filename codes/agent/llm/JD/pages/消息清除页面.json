@@ -1,0 +1,17 @@
+{
+  "pageName": "消息清除页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "完成消息清除",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "消息清除页面"
+    }
+  ]
+}

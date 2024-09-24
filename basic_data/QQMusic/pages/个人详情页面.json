@@ -1,0 +1,49 @@
+{
+  "pageName": "个人详情页面",
+  "page": "com.tencent.qqmusic.activity.AppStarterActivity",
+  "package": "com.tencent.qqmusic",
+  "actionList": [
+    {
+      "action": "点击直播",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "直播页面",
+      "path": "0,0,0,2,0,2,1"
+    },
+    {
+      "action": "点击雷达",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "播放歌曲页面",
+      "path": "0,0,0,2,0,2,2"
+    },
+    {
+      "action": "点击首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,2,0,2,0"
+    },
+    {
+      "action": "点击收藏",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲收藏页面",
+      "path": "0,0,0,1,0,1,4,0,1,0,0,4,0,0"
+    },
+    {
+      "action": "点击本地",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "本地下载详情页面",
+      "path": "0,0,0,1,0,1,4,0,1,0,0,4,0,1"
+    },
+    {
+      "action": "点击最近播放",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "最近播放页面",
+      "path": "0,0,0,1,0,1,4,0,1,0,0,4,0,2"
+    }
+  ]
+}

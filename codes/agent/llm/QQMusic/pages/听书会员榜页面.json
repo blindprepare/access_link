@@ -1,0 +1,35 @@
+{
+  "pageName": "听书会员榜页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面"
+    },
+    {
+      "action": "选择会员书目",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "会员书目详情页面"
+    },
+    {
+      "action": "点击飙升榜",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "听书飙升榜页面"
+    },
+    {
+      "action": "点击新品榜",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "听书新品榜页面"
+    },
+    {
+      "action": "点击热播榜",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "听书热榜页面"
+    }
+  ]
+}

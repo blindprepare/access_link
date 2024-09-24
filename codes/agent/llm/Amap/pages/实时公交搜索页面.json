@@ -1,0 +1,23 @@
+{
+  "pageName": "实时公交搜索页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交页面"
+    },
+    {
+      "action": "输入路线、站点",
+      "type": "输入动作",
+      "parameter": "路线、站点",
+      "nextPage": "实时公交搜索页面"
+    },
+    {
+      "action": "筛选路线、站点",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交搜索结果页面"
+    }
+  ]
+}

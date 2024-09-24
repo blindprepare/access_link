@@ -1,0 +1,21 @@
+{
+  "pageName": "歌曲录制页面",
+  "page": "com.tme.karaoke.page.record.RecordActivity",
+  "package": "com.tencent.qqmusic",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "播放歌曲页面",
+      "path": "0,0,1,0,2,9,0,1"
+    },
+    {
+      "action": "唱歌",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "歌曲录制页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

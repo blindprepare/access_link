@@ -1,0 +1,56 @@
+{
+  "pageName": "个人页面",
+  "page": "com.eg.android.AlipayGphone.AlipayLogin",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "首页",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,1,1,0,0"
+    },
+    {
+      "action": "理财",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "理财页面",
+      "path": "0,0,0,0,0,1,1,1,3"
+    },
+    {
+      "action": "生活",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "生活页面",
+      "path": "0,0,0,0,0,1,1,2,2"
+    },
+    {
+      "action": "消息",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "消息页面",
+      "path": "0,0,0,0,0,1,1,3,1"
+    },
+    {
+      "action": "我的",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "个人页面",
+      "path": "0,0,0,0,0,1,1,4,1"
+    },
+    {
+      "action": "账单",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "账单页面",
+      "path": "0,0,0,0,0,0,0,0,3,0,0"
+    },
+    {
+      "action": "余额",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "余额页面",
+      "path": "0,0,0,0,0,0,0,0,3,2,0"
+    }
+  ]
+}

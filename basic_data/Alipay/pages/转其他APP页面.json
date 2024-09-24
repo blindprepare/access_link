@@ -1,0 +1,28 @@
+{
+  "pageName": "转其他APP页面",
+  "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity$XRiverLite1",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "转账页面",
+      "path": "0,0,0,2,1,1,0"
+    },
+    {
+      "action": "转账金额",
+      "type": "输入动作",
+      "parameter": "输入转账金额",
+      "nextPage": "转其他APP页面",
+      "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,1,3,1,0"
+    },
+    {
+      "action": "确认转账",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "转其他APP页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

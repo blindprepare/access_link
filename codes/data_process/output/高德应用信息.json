@@ -1,0 +1,1013 @@
+{
+  "pages": [{
+  "pageName": "查公交页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁页面",
+      "path": "0,0,0,0,6,0,0,0,0,0"
+    },
+    {
+      "action": "输入公交路线、站点",
+      "type": "输入动作",
+      "parameter": "公交路线、站点",
+      "nextPage": "查公交页面",
+      "path": "0,0,0,0,6,0,0,1,0,0,0,0,0"
+    },
+    {
+      "action": "搜索公交路线、站点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果页面",
+      "path": "0,0,0,0,6,0,0,1,0,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "搜索打车页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,2,2,6,2,1,1,0,1,1,1,0,0,0,3,0,0,0,2"
+    },
+    {
+      "action": "开始打车",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索打车页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交地铁路线信息页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "选择合适路线信息",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁路线信息详情页面",
+      "path": "0,0,0,0,6,0,0,3,0,0,0,1,0,0,0,0,0,0,4,0,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交地铁路线信息详情页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁路线信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,4"
+    },
+    {
+      "action": "查看路线信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁路线信息详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "开始导航",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁路线信息详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "打车搜索页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,0,0,1,0,0,1,0"
+    },
+    {
+      "action": "输入搜索内容",
+      "type": "输入动作",
+      "parameter": "搜索内容",
+      "nextPage": "打车搜索页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,0,0,1,0,0,2,0,0,0,0,0,0,1,0,1"
+    },
+    {
+      "action": "筛选搜索结果",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "打车搜索结果页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,0,0,2,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交路线信息详情页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交路线信息页面"
+    },
+    {
+      "action": "查看路线信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交路线信息详情页面"
+    },
+    {
+      "action": "开始导航",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交路线信息详情页面"
+    }
+  ]
+}
+,
+{
+  "pageName": "搜索页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,6,0,0,1,0,0,0,0,1,0,3,0,0,0"
+    },
+    {
+      "action": "输入搜索内容",
+      "type": "输入动作",
+      "parameter": "搜索内容",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,6,0,0,1,0,0,0,0,1,0,3,0,0,1,1"
+    },
+    {
+      "action": "点击搜索",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果页面",
+      "path": "0,0,0,0,6,0,0,1,0,0,0,0,1,0,3,0,0,2,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "实时公交搜索页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交页面",
+      "path": "0,0,0,0,6,0,0,0,0,4,0,2,1,0,0,0"
+    },
+    {
+      "action": "输入路线、站点",
+      "type": "输入动作",
+      "parameter": "路线、站点",
+      "nextPage": "实时公交搜索页面",
+      "path": "0,0,0,0,6,0,0,0,0,4,0,3,0,0,1"
+    },
+    {
+      "action": "筛选路线、站点",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交搜索结果页面",
+      "path": "0,0,0,0,6,0,0,2,0,2,0,0,1,1,0,0,0,0,0,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "首页",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "点击搜索框",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,6,0,0,0,2,0,0,0,1,0"
+    },
+    {
+      "action": "公交地铁",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁页面",
+      "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0"
+    },
+    {
+      "action": "实时公交",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交页面",
+      "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0"
+    },
+    {
+      "action": "驾车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,2,0"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面",
+      "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,3,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交搜索结果详情页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,2,1,0,0"
+    },
+    {
+      "action": "分享位置",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "查看位置介绍",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "导航",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交导航页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "路线",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交路线信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "周边",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交周边信息页面",
+      "path": "0,0,0,0,6,1,0,2,0,0,1,8,0,1,0"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交打车页面",
+      "path": "0,0,0,0,6,1,0,2,0,0,1,8,0,1,3"
+    }
+  ]
+}
+,
+{
+  "pageName": "限行查询页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0"
+    },
+    {
+      "action": "输入查找城市",
+      "type": "输入动作",
+      "parameter": "查找城市",
+      "nextPage": "限行查询页面",
+      "path": "0,0,0,0,6,0,0,0,0,1,0,1,0,0,1,0,0"
+    },
+    {
+      "action": "筛选查找城市",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询结果页面",
+      "path": "0,0,0,0,6,0,0,0,0,1,0,1,1,0,0,1,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "打车页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,6,0,0,0,2,0,0,0,1,0"
+    },
+    {
+      "action": "点击搜索终点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车搜索页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,2,6,2,2,1,0,1,0,1,0,0,0,4,0,0,0,0,2"
+    }
+  ]
+}
+,
+{
+  "pageName": "导航页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": ",0,0,0,6,0,0,2,0,0,1,0,0,2,2,1,0,0,0,0,0"
+    },
+    {
+      "action": "前往目的地",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "导航页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "驾车页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "点击输入终点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "输入驾车终点页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,1,0,1,1"
+    },
+    {
+      "action": "点击驾车轨迹",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车轨迹页面",
+      "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,7,0"
+    },
+    {
+      "action": "限行查询",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询页面",
+      "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,0"
+    },
+    {
+      "action": "停车推荐",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "停车推荐页面",
+      "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,5"
+    },
+    {
+      "action": "通行费助手",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "通行费助手页面",
+      "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,7"
+    }
+  ]
+}
+,
+{
+  "pageName": "地铁图页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁页面",
+      "path": "0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,1,0"
+    },
+    {
+      "action": "查看地铁图",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "地铁图页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交地铁页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "点击输入终点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "输入终点页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,1,0,1,1"
+    },
+    {
+      "action": "点击查公交",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "查公交页面",
+      "path": "0,0,0,0,6,0,0,3,0,2,0,1,0,0,0,3,0,0,0"
+    },
+    {
+      "action": "地铁图",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "地铁图页面",
+      "path": "0,0,0,0,6,0,0,3,0,2,0,1,0,0,0,3,0,1,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "实时公交搜索结果页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交搜索页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,1,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看实时公交信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交搜索页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "选择下车点并导航",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交搜索页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "设置上车提醒",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交搜索页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "设置公交闹钟",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交搜索页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "输入驾车终点页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,0"
+    },
+    {
+      "action": "输入终点",
+      "type": "输入动作",
+      "parameter": "终点",
+      "nextPage": "输入驾车终点页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,1,0,0,0,1,1,0,1"
+    },
+    {
+      "action": "选择终点位置",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车路线信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,3,0,0,0,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交导航页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": ",0,0,0,6,0,0,2,0,0,1,0,0,2,2,1,0,0,0,0,0"
+    },
+    {
+      "action": "前往目的地",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交导航页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "限行查询结果页面",
+  "actionList": [
+     {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询页面"
+    },
+    {
+      "action": "查看限行政策",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "限行查询结果页面"
+    }
+  ]
+}
+,
+{
+  "pageName": "驾车路线信息页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "输入驾车终点页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "查看路线信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车路线信息页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "开始导航",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车路线信息页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "输入终点页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,0"
+    },
+    {
+      "action": "输入终点",
+      "type": "输入动作",
+      "parameter": "终点",
+      "nextPage": "输入终点页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,1,0,0,0,1,1,0,1"
+    },
+    {
+      "action": "选择终点位置",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "公交地铁路线信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交周边信息页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "0,0,0,0,3,0,2,2,0,0,0,1,2,0,0"
+    },
+    {
+      "action": "查看周边信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交周边信息页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交打车页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,2,2,6,2,1,1,0,1,1,1,0,0,0,3,0,0,0,2"
+    },
+    {
+      "action": "开始打车",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "公交打车页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "搜索结果详情页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,2,1,0,0"
+    },
+    {
+      "action": "分享位置",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "查看位置介绍",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "导航",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "导航页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,0,0,0,0"
+    },
+    {
+      "action": "路线",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "路线信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "周边",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "周边信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,12,0,1,0"
+    },
+    {
+      "action": "打车",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索打车页面",
+      "path": "0,0,0,0,6,0,0,2,0,0,1,12,0,1,3"
+    }
+  ]
+}
+,
+{
+  "pageName": "实时公交页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,6,0,0,0,0,4,0,1,1,0,0,0"
+    },
+    {
+      "action": "点击搜索路线、站点",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "实时公交搜索页面",
+      "path": "0,0,0,0,6,0,0,0,0,4,0,2,0,0,1"
+    }
+  ]
+}
+,
+{
+  "pageName": "周边信息页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,0,3,0,2,2,0,0,0,1,2,0,0"
+    },
+    {
+      "action": "查看周边信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "周边信息页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "停车推荐页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "选择合适停车场前往",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "停车推荐页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "驾车轨迹页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,0,0,1,0"
+    },
+    {
+      "action": "查看驾车轨迹",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车轨迹页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "路线信息详情页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "路线信息页面",
+      "path": "0,0,0,0,6,0,0,2,0,2,1,3"
+    },
+    {
+      "action": "查看路线信息",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "路线信息详情页面",
+      "path": "NO_NEED"
+    },
+    {
+      "action": "开始导航",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "路线信息详情页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交搜索结果页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "查公交页面",
+      "path": "0,0,0,0,6,0,0,1,0,0"
+    },
+    {
+      "action": "筛选公交搜索结果",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,2,0,0,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "打车搜索结果页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "打车页面"
+    },
+    {
+      "action": "开始打车",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "打车搜索结果页面"
+    }
+  ]
+}
+,
+{
+  "pageName": "路线信息页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "选择合适路线信息",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "路线信息详情页面",
+      "path": "0,0,0,0,6,0,0,3,0,0,0,1,0,0,0,0,0,0,3,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "搜索结果页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,3,3,0,1,0,0,1,0"
+    },
+    {
+      "action": "选择搜索结果",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,3,2,0,2,0"
+    }
+  ]
+}
+,
+{
+  "pageName": "通行费助手页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "驾车页面",
+      "path": "0,0,0,0,6,0,0,0,0,1,0,0,2,0,0,0"
+    },
+    {
+      "action": "查询通行费账单",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "通行费助手页面",
+      "path": "NO_NEED"
+    }
+  ]
+}
+,
+{
+  "pageName": "公交路线信息页面",
+  "page": "com.autonavi.map.activity.NewMapActivity",
+  "package": "com.autonavi.minimap",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "公交搜索结果详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,1,0"
+    },
+    {
+      "action": "选择合适路线信息",
+      "type": "筛选动作",
+      "parameter": "无需参数",
+      "nextPage": "公交路线信息详情页面",
+      "path": "0,0,0,0,6,0,0,2,0,1,2,1,0,0"
+    }
+  ]
+}
+,
+  ]
+}

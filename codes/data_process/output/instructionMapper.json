@@ -1,0 +1,3429 @@
+{
+  "美团_酒店民宿详情页面_订酒店_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.detail.HotelPoiDetailActivity"
+  },
+  "支付宝_出行页面_公交_click": {
+    "path": "0,0,0,1,0,0,0,1,1,0,2,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "高德_驾车页面_限行查询_click": {
+    "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_首页_点击外卖_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "qq音乐_本地下载视频详情页面_选择视频播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_扫码页面_点击扫药品_click": {
+    "path": "0,0,0,0,0,3,1,0,4,0,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "支付宝_扫码开锁页面_扫码开锁_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "高德_公交搜索结果详情页面_导航_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_邮件详情页面_阅读邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "京东_消息页面_点击互动消息_click": {
+    "path": "0,0,0,3,1,0,0,0,3,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "美团_首页_点击视频_click": {
+    "path": "0,0,0,0,0,2,2,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "支付宝_转账页面_转到支付宝_click": {
+    "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,7,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq音乐_歌单收藏页面_点击歌曲_click": {
+    "path": "0,0,0,1,1,2,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_星标邮件页面_筛选邮件_select": {
+    "path": "0,0,0,0,0,0,0,0,1,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "支付宝_12306页面_购买火车票_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "支付宝_账单页面_查看账单_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "美团_酒店民宿订单页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity"
+  },
+  "qq音乐_歌曲收藏页面_选择歌曲播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_服务通知页面_查看服务通知_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_卡包页面_发票_click": {
+    "path": "0,0,0,2,0,0,1,0,1,0,0,2,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "qq音乐_歌手专辑页面_选择专辑_select": {
+    "path": "0,0,0,1,3,5,2,2,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_打车搜索页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,0,0,1,0,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_通行费助手页面_查询通行费账单_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_听书会员榜页面_选择会员书目_select": {
+    "path": "0,0,0,1,3,3,2,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_证件页面_查看证件_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "qq音乐_本地下载视频详情页面_返回_click": {
+    "path": "0,0,0,1,1,1,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_歌手歌曲页面_点击视频_click": {
+    "path": "0,0,0,1,3,5,1,0,0,4",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_搜索页面_听书热榜_click": {
+    "path": "0,0,0,1,1,2,2,0,0,0,0,8,0,3,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_邮件搜索页面_筛选邮件_select": {
+    "path": "0,0,0,0,0,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchSubActivity"
+  },
+  "京东_退换申请记录页面_点击售后申请_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "支付宝_转到支付宝页面_下一步_click": {
+    "path": "0,0,0,2,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToAccountInputSearchActivity_"
+  },
+  "高德_打车搜索页面_输入搜索内容_type": {
+    "path": "0,0,0,0,6,0,0,2,0,1,0,0,1,0,0,2,0,0,0,0,0,0,1,0,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_搜索页面_返回_click": {
+    "path": "0,0,0,1,1,2,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_我的页面_点击待付款_click": {
+    "path": "0,0,0,1,0,0,0,0,0,2,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "支付宝_实际转账页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToAccountConfirmMainActivityNew"
+  },
+  "支付宝_转其他APP页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity$XRiverLite1"
+  },
+  "qq音乐_听书飙升榜页面_点击热播榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_限行查询结果页面_查看限行政策_human": {},
+  "qq音乐_关注歌手页面_返回_click": {
+    "path": "0,0,0,1,3,3,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_待评价页面_查看待评价订单_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.evaluatecenter.view.activity.EvaluateCenterMainActivity"
+  },
+  "高德_搜索页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,1,0,0,0,0,1,0,3,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_听书热榜页面_选择热榜书目_select": {
+    "path": "0,0,0,1,2,3,2,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_歌手页面_关注歌手_click": {
+    "path": "0,0,0,1,2,2,0,0,0,0,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_发现页面_返回_click": {
+    "path": "0,0,0,0,0,3,1,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "美团_发现页面_识别结果_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "美团_外卖结果销量优先页面_筛选外卖_select": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "京东_服务通知页面_点击京东快讯_click": {
+    "path": "0,0,0,3,1,0,0,0,4,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_互动消息页面_点击客服消息_click": {
+    "path": "0,0,0,3,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_音乐直播页面_点击嗨聊_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,5,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_搜索结果页面_选择搜索结果_select": {
+    "path": "0,0,0,0,0,8,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.search.view.Activity.ProductListActivity"
+  },
+  "qq音乐_歌曲评论页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusiccommon.hybrid.CommentHalfScreenActivity"
+  },
+  "qq音乐_歌手歌曲页面_选择歌曲播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_优惠券页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "美团_酒店民宿搜索页面_选择酒店民宿_select": {
+    "path": "0,0,0,0,0,0,0,8,0,0,6,0,1,1,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.search.HotelSearchResultActivity"
+  },
+  "美团_位置搜索页面_筛选地理位置_select": {
+    "path": "0,0,0,0,0,0,0,0,2,1,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.mrn.container.MRNBaseActivity"
+  },
+  "qq音乐_本地下载视频详情页面_点击本地歌曲_click": {
+    "path": "0,0,0,1,1,1,0,0,1,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_银行卡实际转账页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToCardConfirmCubeActivity"
+  },
+  "美团_搜索结果详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity"
+  },
+  "高德_限行查询页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_退换页面_点击处理中_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "高德_输入驾车终点页面_选择终点位置_select": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,0,3,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_酒店民宿订单页面_点击首页_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,2,0,0,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity"
+  },
+  "支付宝_收付款页面_扫码付_click": {
+    "path": "0,0,0,1,1,0,1,2",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.onsitepay.merge.OnsitepayActivity"
+  },
+  "京东_我的页面_点击退换_click": {
+    "path": "0,0,0,1,0,0,0,0,0,2,4,0,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "qq音乐_听书热榜页面_点击新品榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,3",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_出行页面_汽车票_click": {
+    "path": "0,0,0,1,0,0,0,1,1,0,8,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "京东_退换申请记录页面_查看退换申请记录_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "支付宝_扫一扫页面_返回_click": {
+    "path": "0,0,0,1,2,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "qq音乐_颜值直播详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,1,4,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.mlive.framework.ui.LivePagerActivity"
+  },
+  "美团_酒店民宿页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity"
+  },
+  "支付宝_荷包详情页面_扫一扫_click": {
+    "path": "0,0,0,1,0,2,0,1,0,2,0,0,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq音乐_会员书目详情页面_返回_click": {
+    "path": "0,0,0,1,3,0,1,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_已发送邮件详情页面_阅读邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "美团_扫码页面_返回_click": {
+    "path": "0,0,0,0,0,3,1,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "支付宝_转给自己页面_确认转出_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq邮箱_给联系人写邮件页面_写邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "qq音乐_直播页面_筛选直播_select": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,3",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_已发送页面_写邮件_click": {
+    "path": "0,0,0,0,0,0,0,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "美团_酒店民宿搜索页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.search.HotelSearchResultActivity"
+  },
+  "美团_外卖结果速度优先页面_筛选外卖_select": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "京东_搜索页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.search.view.Activity.SearchActivity"
+  },
+  "qq音乐_歌曲收藏页面_点击专辑_click": {
+    "path": "0,0,0,1,1,2,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_嗨聊直播页面_点击音乐_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_京豆页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "高德_驾车页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_实时公交搜索页面_筛选路线、站点_select": {
+    "path": "0,0,0,0,6,0,0,2,0,2,0,0,1,1,0,0,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_热榜书目详情页面_播放书目_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_给通讯录联系人写邮件页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "qq音乐_听书新品榜页面_返回_click": {
+    "path": "0,0,0,1,2,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_荷包详情页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "美团_发现页面_点击扫码_click": {
+    "path": "0,0,0,0,0,3,1,0,4,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "qq邮箱_邮件搜索页面_取消_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchSubActivity"
+  },
+  "qq音乐_颜值直播页面_筛选直播_select": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,3",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_草稿箱写邮件页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "qq音乐_播放歌曲页面_点击K歌_click": {
+    "path": "0,0,0,0,2,1,0,1,0,11,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.business.playernew.view.NewPlayerActivity"
+  },
+  "支付宝_首页_消息_click": {
+    "path": "0,0,0,0,0,1,1,3,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "高德_输入终点页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_邮件搜索详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "美团_扫药品页面_返回_click": {
+    "path": "0,0,0,0,0,3,1,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "京东_服务通知页面_返回_click": {
+    "path": "0,0,0,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "高德_地铁图页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_歌手视频页面_选择视频播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_优惠券页面_查看优惠券_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "qq音乐_歌单收藏页面_返回_click": {
+    "path": "0,0,0,1,1,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_扫一扫页面_识物_click": {
+    "path": "0,0,0,1,7,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "美团_扫药品页面_识别药品_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "美团_外卖结果综合排序页面_返回_click": {
+    "path": "0,0,0,0,0,0,1,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "qq音乐_播放歌曲页面_点击播放/暂停_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.business.playernew.view.NewPlayerActivity"
+  },
+  "高德_公交导航页面_前往目的地_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_交易物流页面_查看交易物流_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_荷包详情页面_转出_click": {
+    "path": "0,0,0,0,0,2,0,2,0,2,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "高德_路线信息详情页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,2,1,3",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_搜索页面_邮件_click": {
+    "path": "0,0,0,0,0,0,0,1,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchActivity"
+  },
+  "美团_外卖结果销量优先详情页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity"
+  },
+  "qq音乐_直播页面_点击首页_click": {
+    "path": "0,0,0,2,0,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_联系人搜索页面_输入联系人_type": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchSubActivity"
+  },
+  "京东_交易物流页面_点击客服消息_click": {
+    "path": "0,0,0,3,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_转给他人页面_转出金额_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,4,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "美团_首页_点击我的_click": {
+    "path": "0,0,0,0,0,2,2,4",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "京东_京东快讯页面_查看京东快讯_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_交易物流页面_点击服务通知_click": {
+    "path": "0,0,0,3,1,0,0,0,2,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_播放歌曲页面_返回_click": {
+    "path": "0,0,0,0,3,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.business.playernew.view.NewPlayerActivity"
+  },
+  "高德_搜索结果详情页面_导航_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_互动消息页面_查看互动消息_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_颜值直播页面_返回_click": {
+    "path": "0,0,0,1,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_识物页面_返回_click": {
+    "path": "0,0,0,1,3,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "支付宝_实际转账页面_添加备注_type": {
+    "path": "0,0,0,1,1,0,0,2,0,0,1,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToAccountConfirmMainActivityNew"
+  },
+  "京东_搜索页面_点击搜索_click": {
+    "path": "0,0,0,0,0,1,0,0,1,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.search.view.Activity.SearchActivity"
+  },
+  "高德_搜索结果详情页面_打车_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,12,0,1,3",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_余额提现页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_转给自己页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_荷包相册页面_选择图片_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.beehive.photo.ui.PhotoSelectActivity"
+  },
+  "京东_购物车页面_点击首页_click": {
+    "path": "0,0,0,3,0,0,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "支付宝_首页_卡包_click": {
+    "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,1,3,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "支付宝_出行页面_打车_click": {
+    "path": "0,0,0,1,0,0,0,1,1,0,4,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "qq邮箱_邮件搜索页面_输入邮件信息_type": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchSubActivity"
+  },
+  "qq音乐_歌手专辑页面_点击视频_click": {
+    "path": "0,0,0,1,3,5,1,0,0,4",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_查公交页面_搜索公交路线、站点_click": {
+    "path": "0,0,0,0,6,0,0,1,0,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_首页_打车_click": {
+    "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,3,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_首页_公交地铁_click": {
+    "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_转给他人页面_支付宝账户_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,1,2,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "高德_搜索结果详情页面_查看位置介绍_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_交易物流页面_点击优惠促销_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_余额提现页面_提现金额_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_转其他APP页面_转账金额_type": {
+    "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,1,3,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity$XRiverLite1"
+  },
+  "qq音乐_歌曲录制页面_返回_click": {
+    "path": "0,0,1,0,2,9,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.karaoke.page.record.RecordActivity"
+  },
+  "支付宝_转给他人页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "高德_实时公交页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,0,0,4,0,1,1,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_首页_点击扫啊扫_click": {
+    "path": "0,0,0,1,0,1,0,7,0,0,4",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "支付宝_公交码页面_展示公交码_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "高德_公交搜索结果详情页面_查看位置介绍_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_荷包转出页面_转给自己_click": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,2,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "京东_店铺页面_浏览店铺_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.jshop.jshop.JshopMainShopActivity"
+  },
+  "京东_京东快讯页面_点击互动消息_click": {
+    "path": "0,0,0,3,1,0,0,0,3,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_哼唱识别页面_点击听歌识曲_click": {
+    "path": "0,0,0,1,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.recognizekt.RecognizeActivity"
+  },
+  "高德_实时公交搜索结果页面_查看实时公交信息_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_卡包页面_优惠券_click": {
+    "path": "0,0,0,2,0,0,1,0,1,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "支付宝_余额充值页面_确认充值_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "京东_退换页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "支付宝_骑行页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "支付宝_证件页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "京东_退换申请记录页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "京东_优惠促销页面_查看优惠促销_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "高德_公交打车页面_开始打车_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_首页_点击雷达_click": {
+    "path": "0,0,0,2,0,2,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_退换申请记录页面_点击待评价_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "qq邮箱_收件箱页面_写邮件_click": {
+    "path": "0,0,0,0,0,0,0,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "qq音乐_歌手专辑详情页面_选择歌曲播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_搜索结果页面_筛选搜索结果_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_支付宝荷包页面_荷包类型_select": {
+    "path": "0,1,2,1,0,0,1,0,1,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "高德_实时公交搜索结果页面_设置公交闹钟_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_互动消息页面_点击清除消息_click": {
+    "path": "0,0,0,2,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "高德_首页_实时公交_click": {
+    "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_服务通知页面_点击互动消息_click": {
+    "path": "0,0,0,3,1,0,0,0,3,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_京东快讯页面_点击服务通知_click": {
+    "path": "0,0,0,3,1,0,0,0,2,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_听书新品榜页面_点击飙升榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_音乐直播详情页面_刷直播_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.mlive.framework.ui.LivePagerActivity"
+  },
+  "京东_互动消息页面_点击交易物流_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_音乐排行页面_选择榜单_select": {
+    "path": "0,0,0,1,2,2,6",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_首页_点击扫码_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "qq音乐_歌手页面_点击搜索_click": {
+    "path": "0,0,0,1,2,1,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_输入驾车终点页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_实时公交搜索结果页面_设置上车提醒_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_发票页面_查看发票_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "高德_公交地铁路线信息页面_选择合适路线信息_select": {
+    "path": "0,0,0,0,6,0,0,3,0,0,0,1,0,0,0,0,0,0,4,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_待收货页面_查看待收货订单_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity"
+  },
+  "qq邮箱_草稿箱写邮件页面_写邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "qq邮箱_通讯录联系人往来邮件详情页面_阅读邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivityl"
+  },
+  "京东_搜索结果详情页面_返回_click": {
+    "path": "0,0,0,0,0,4,0,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.productdetail.ProductDetailActivity"
+  },
+  "京东_优惠促销页面_点击京东快讯_click": {
+    "path": "0,0,0,3,1,0,0,0,4,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_出行页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "qq邮箱_已发送写邮件页面_写邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "支付宝_相册页面_返回_click": {
+    "path": "0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.beehive.photo.ui.PhotoSelectActivity"
+  },
+  "支付宝_转到银行卡页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToCardFormCubeActivity"
+  },
+  "高德_实时公交搜索结果页面_选择下车点并导航_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_外卖结果销量优先页面_返回_click": {
+    "path": "0,0,0,0,0,0,1,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "京东_店铺关注页面_返回_click": {
+    "path": "0,0,0,0,1,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.favorites.FavoListFragmentActivity"
+  },
+  "高德_实时公交搜索页面_输入路线、站点_type": {
+    "path": "0,0,0,0,6,0,0,0,0,4,0,3,0,0,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_热榜书目详情页面_返回_click": {
+    "path": "0,0,0,1,3,0,1,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_歌曲收藏页面_返回_click": {
+    "path": "0,0,0,1,1,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_搜索结果页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,3,3,0,1,0,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_外卖页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,2,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.page.homepage.TakeoutActivity"
+  },
+  "qq邮箱_已发送写邮件页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "qq音乐_专辑收藏页面_点击歌曲_click": {
+    "path": "0,0,0,1,1,2,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_我的页面_点击浏览记录_click": {
+    "path": "0,0,0,1,0,0,0,0,0,3,4,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "京东_退换待评价页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "高德_驾车路线信息页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_京东拍照页面_返回_click": {
+    "path": "0,0,0,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.scan.lib.zxing.client.android.NewCaptureActivity"
+  },
+  "京东_优惠促销页面_点击交易物流_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_首页_点击我的_click": {
+    "path": "0,0,0,3,0,0,4,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "高德_实时公交页面_点击搜索路线、站点_click": {
+    "path": "0,0,0,0,6,0,0,0,0,4,0,2,0,0,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_嗨聊直播详情页面_刷直播_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.mlive.framework.ui.LivePagerActivity"
+  },
+  "支付宝_转账页面_转到银行卡_click": {
+    "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,8,2",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "高德_周边信息页面_查看周边信息_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_直播页面_点击嗨聊_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,5,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_购物车页面_购物车结算_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "京东_优惠促销页面_点击清除消息_click": {
+    "path": "0,0,0,2,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "高德_地铁图页面_查看地铁图_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_听书会员榜页面_点击新品榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,3",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_公交地铁页面_点击查公交_click": {
+    "path": "0,0,0,0,6,0,0,3,0,2,0,1,0,0,0,3,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_歌单收藏页面_选择歌单播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_输入终点页面_输入终点_type": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,1,0,0,0,1,1,0,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_我的页面_点击购物车_click": {
+    "path": "0,0,0,3,0,0,3,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "京东_搜索结果页面_返回_click": {
+    "path": "0,0,0,0,0,5,0,1,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.search.view.Activity.ProductListActivity"
+  },
+  "qq邮箱_联系人往来邮件页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "qq音乐_最近播放页面_返回_click": {
+    "path": "0,0,0,1,1,1,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_消息页面_查看客服消息_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "高德_公交地铁路线信息页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_输入驾车终点页面_输入终点_type": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,0,2,1,0,1,0,0,0,1,1,0,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_京东快讯页面_返回_click": {
+    "path": "0,0,0,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq邮箱_通讯录联系人详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,1,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts2.ContactDetailActivity"
+  },
+  "京东_退换待评价页面_点击售后申请_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "京东_扫啊扫页面_返回_click": {
+    "path": "0,0,0,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.scan.lib.zxing.client.android.NewCaptureActivity"
+  },
+  "qq音乐_音乐排行页面_返回_click": {
+    "path": "0,0,0,1,2,1,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_个人详情页面_点击首页_click": {
+    "path": "0,0,0,0,0,2,2,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "支付宝_余额充值页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "美团_外卖页面_点击搜索框_click": {
+    "path": "0,0,0,0,0,0,0,2,0,2,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.page.homepage.TakeoutActivity"
+  },
+  "美团_个人详情页面_点击全部订单_click": {
+    "path": "0,0,0,0,0,0,0,1,0,1,0,0,1,5,0,1,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "高德_公交地铁页面_地铁图_click": {
+    "path": "0,0,0,0,6,0,0,3,0,2,0,1,0,0,0,3,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_已删除页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "支付宝_转账搜索页面_返回_click": {
+    "path": "0,0,0,0,1,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.businesscommon.globalsearch.ui.MainSearchActivity"
+  },
+  "美团_酒店民宿页面_位置搜索_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity"
+  },
+  "高德_公交路线信息页面_选择合适路线信息_select": {
+    "path": "0,0,0,0,6,0,0,2,0,1,2,1,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_扫一扫页面_相册_click": {
+    "path": "0,0,0,1,6,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "京东_优惠促销页面_点击我的预约_click": {
+    "path": "0,0,0,2,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_退换待评价页面_点击申请记录_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "qq音乐_颜值直播详情页面_刷直播_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.mlive.framework.ui.LivePagerActivity"
+  },
+  "京东_消息页面_点击京东快讯_click": {
+    "path": "0,0,0,3,1,0,0,0,4,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_个人页面_首页_click": {
+    "path": "0,0,0,0,0,1,1,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq音乐_本地下载节目详情页面_点击视频_click": {
+    "path": "0,0,0,1,1,1,0,0,1,0,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_联系人搜索页面_筛选联系人_select": {
+    "path": "0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchSubActivity"
+  },
+  "京东_退换处理中页面_点击待评价_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "京东_退换处理中页面_点击售后申请_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "支付宝_打车页面_主动打车_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "支付宝_转其他APP页面_确认转账_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity$XRiverLite1"
+  },
+  "高德_驾车轨迹页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,0,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_出行页面_12306_click": {
+    "path": "0,0,0,1,0,0,0,1,1,0,5,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "京东_退换处理中页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "qq音乐_直播页面_返回_click": {
+    "path": "0,0,0,1,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_歌手视频页面_返回_click": {
+    "path": "0,0,0,1,3,4,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_会员书目详情页面_播放书目_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_驾车轨迹页面_查看驾车轨迹_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_转到银行卡页面_卡号_type": {
+    "path": "0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToCardFormCubeActivity"
+  },
+  "美团_搜索页面_点击搜索_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.meituan.search.home.SearchActivity"
+  },
+  "qq邮箱_星标邮件页面_星标邮件写邮件_click": {
+    "path": "0,0,0,0,0,0,0,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "高德_公交路线信息页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_我的页面_点击待收货_click": {
+    "path": "0,0,0,1,0,0,0,0,0,2,2,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "qq音乐_关注歌手页面_选择歌手_select": {
+    "path": "0,0,0,1,4,4,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_听书飙升榜页面_点击新品榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,3",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_星标邮件详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "qq邮箱_星标邮件写邮件页面_写邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "qq邮箱_联系人搜索页面_取消_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchSubActivity"
+  },
+  "qq音乐_听书热榜页面_点击会员榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_已发送邮件详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "qq音乐_听书会员榜页面_返回_click": {
+    "path": "0,0,0,1,2,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_支付宝荷包页面_返回_click": {
+    "path": "0,0,0,2,2,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "京东_服务通知页面_点击我的预约_click": {
+    "path": "0,0,0,2,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_退换处理中页面_点击申请记录_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "支付宝_AR页面_扫描AR_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "美团_外卖结果综合排序页面_销量优先_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "支付宝_机票页面_购买机票_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "高德_搜索结果详情页面_分享位置_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_外卖结果销量优先页面_销量优先_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "qq邮箱_首页_收件箱_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,5",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "支付宝_荷包扫码页面_相册_click": {
+    "path": "0,0,0,1,5,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "京东_店铺关注页面_查看店铺关注情况_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.favorites.FavoListFragmentActivity"
+  },
+  "京东_待收货页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,1,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity"
+  },
+  "支付宝_实际转账页面_转账_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToAccountConfirmMainActivityNew"
+  },
+  "qq邮箱_草稿箱邮件详情页面_阅读邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "支付宝_荷包详情页面_转入_click": {
+    "path": "0,0,0,0,0,2,0,2,0,2,0,0,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_余额提现页面_确认提现_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq邮箱_给联系人写邮件页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,1,0,0,0,1,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "京东_搜索结果详情页面_加入购物车_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.productdetail.ProductDetailActivity"
+  },
+  "支付宝_收付款页面_返回_click": {
+    "path": "0,0,0,1,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.onsitepay.merge.OnsitepayActivity"
+  },
+  "qq音乐_听书新品榜页面_点击会员榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_服务通知页面_点击客服消息_click": {
+    "path": "0,0,0,3,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_我的订单页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,1,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity"
+  },
+  "京东_优惠券页面_返回_click": {
+    "path": "0,0,0,0,0,1,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.mycoupon.mvp.view.activity.CouponActivity"
+  },
+  "支付宝_首页_转账_click": {
+    "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,1,1,0,0,3,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq音乐_歌曲收藏页面_点击歌单_click": {
+    "path": "0,0,0,1,1,2,0,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_听书会员榜页面_点击飙升榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_外卖结果综合排序详情页面_点外卖_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity"
+  },
+  "京东_我的预约页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0,2,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.WebActivity"
+  },
+  "qq邮箱_已删除写邮件页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "美团_消息页面_点击视频_click": {
+    "path": "0,0,0,0,0,2,2,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "美团_扫码页面_点击发现_click": {
+    "path": "0,0,0,0,0,3,1,0,4,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "美团_消息页面_全部已读_click": {
+    "path": "0,0,0,0,0,0,0,1,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "qq邮箱_通讯录联系人详情页面_写邮件_click": {
+    "path": "0,0,0,0,0,0,0,2,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts2.ContactDetailActivity"
+  },
+  "高德_打车搜索结果页面_返回_click": {},
+  "京东_客服页面_返回_click": {
+    "path": "0,0,0,3,0,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.icssdk.v2.ui.activity.ActivityChattingNew"
+  },
+  "支付宝_出行页面_机票_click": {
+    "path": "0,0,0,1,0,0,0,1,1,0,6,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "qq音乐_听歌识曲页面_点击哼唱识别_click": {
+    "path": "0,0,0,1,1,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.recognizekt.RecognizeActivity"
+  },
+  "qq邮箱_邮件搜索详情页面_阅读邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "高德_公交搜索结果页面_筛选公交搜索结果_select": {
+    "path": "0,0,0,0,6,0,0,2,0,2,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_转给自己页面_转出理由_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,7,0,0,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_收付款页面_收钱_click": {
+    "path": "0,0,0,1,1,0,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.onsitepay.merge.OnsitepayActivity"
+  },
+  "支付宝_扫码开锁页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "支付宝_转账搜索页面_选择搜索内容_select": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.businesscommon.globalsearch.ui.MainSearchActivity"
+  },
+  "京东_互动消息页面_返回_click": {
+    "path": "0,0,0,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_首页_我的_click": {
+    "path": "0,0,0,0,0,1,1,4,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq邮箱_通讯录页面_筛选联系人_select": {
+    "path": "0,0,0,0,0,0,0,0,1,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "qq音乐_听书新品榜页面_点击热播榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_个人详情页面_点击直播_click": {
+    "path": "0,0,0,2,0,2,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_路线信息详情页面_开始导航_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_骑行页面_扫码开锁_click": {
+    "path": "0,0,0,0,0,0,0,1,1,0,0,0,2,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "高德_打车页面_点击搜索终点_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,2,6,2,2,1,0,1,0,1,0,0,0,4,0,0,0,0,2",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_搜索结果详情页面_路线_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,1,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_公交搜索结果详情页面_周边_click": {
+    "path": "0,0,0,0,6,1,0,2,0,0,1,8,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_消息页面_点击服务通知_click": {
+    "path": "0,0,0,3,1,0,0,0,2,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_直播页面_点击音乐_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_通讯录联系人往来邮件页面_筛选邮件_select": {
+    "path": "0,0,0,0,0,0,0,0,1,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "支付宝_识物页面_识车牌_click": {
+    "path": "0,0,0,1,1,1,0,0,1,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "京东_交易物流页面_点击互动消息_click": {
+    "path": "0,0,0,3,1,0,0,0,3,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_个人页面_余额_click": {
+    "path": "0,0,0,0,0,0,0,0,3,2,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "支付宝_荷包转出页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq音乐_听歌识曲页面_返回_click": {
+    "path": "0,0,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.recognizekt.RecognizeActivity"
+  },
+  "高德_路线信息详情页面_查看路线信息_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_转账页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq音乐_音乐榜单排行页面_选择歌曲播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_公交地铁路线信息详情页面_查看路线信息_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_打车搜索结果页面_开始打车_human": {},
+  "京东_服务通知页面_点击交易物流_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_本地下载详情页面_返回_click": {
+    "path": "0,0,0,1,1,1,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_驾车路线信息页面_开始导航_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_互动消息页面_点击我的预约_click": {
+    "path": "0,0,0,2,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_歌曲录制页面_唱歌_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.karaoke.page.record.RecordActivity"
+  },
+  "支付宝_余额页面_小荷包_click": {
+    "path": "0,0,2,0,3,1,1,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "高德_公交路线信息详情页面_查看路线信息_human": {},
+  "qq邮箱_草稿箱页面_写邮件_click": {
+    "path": "0,0,0,0,0,0,0,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "qq音乐_本地下载节目详情页面_返回_click": {
+    "path": "0,0,0,1,1,1,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_银行卡实际转账页面_转账留言_type": {
+    "path": "0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToCardConfirmCubeActivity"
+  },
+  "支付宝_荷包转入页面_转入说明_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,1,5,0,0,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_余额页面_查看余额_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "京东_我的预约页面_查看我的预约_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.WebActivity"
+  },
+  "支付宝_识物页面_识商品_click": {
+    "path": "0,0,0,1,1,1,0,0,3,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "高德_搜索结果详情页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,2,1,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_听歌识曲页面_听歌识曲_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.recognizekt.RecognizeActivity"
+  },
+  "京东_待评价页面_返回_click": {
+    "path": "0,0,0,1,0,1,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.evaluatecenter.view.activity.EvaluateCenterMainActivity"
+  },
+  "支付宝_识物页面_扫描物体_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "qq邮箱_首页_星标邮件_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,6",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "qq音乐_飙升书目详情页面_播放书目_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_消息清除页面_完成消息清除_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "高德_首页_点击搜索框_click": {
+    "path": "0,0,0,0,6,0,0,0,2,0,0,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_酒店民宿页面_搜索酒店民宿_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,4",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity"
+  },
+  "支付宝_发票页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "qq邮箱_收件箱页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "美团_酒店民宿页面_点击订单_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,2,2,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity"
+  },
+  "qq音乐_搜索页面_点击排行_click": {
+    "path": "0,0,0,1,1,2,2,0,0,0,0,4,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_直播页面_点击颜值_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,3,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_我的页面_点击优惠券_click": {
+    "path": "0,0,0,1,0,0,0,0,0,3,1,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "qq音乐_新品书目详情页面_返回_click": {
+    "path": "0,0,0,1,3,0,1,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_个人详情页面_点击消息_click": {
+    "path": "0,0,0,0,0,2,2,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "京东_退换待评价页面_点击处理中_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "qq邮箱_联系人往来邮件页面_筛选邮件_select": {
+    "path": "0,0,0,0,0,0,0,0,1,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "美团_搜索页面_输入搜索内容_type": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.meituan.search.home.SearchActivity"
+  },
+  "京东_优惠促销页面_返回_click": {
+    "path": "0,0,0,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_嗨聊直播页面_点击热门_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_搜索结果详情页面_周边_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,12,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_通讯录页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "qq邮箱_给通讯录联系人写邮件页面_写邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "支付宝_荷包转入页面_确认转入_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "京东_京东快讯页面_点击优惠促销_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_搜索页面_听歌识曲_click": {
+    "path": "0,0,0,1,1,2,2,0,0,0,0,8,0,2,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_我的页面_点击我的订单_click": {
+    "path": "0,0,0,1,0,0,0,0,0,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "支付宝_分期付款页面_展示分期付款码_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq邮箱_草稿箱页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "京东_退换页面_点击待评价_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "京东_消息页面_点击优惠促销_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq邮箱_搜索页面_通讯录_click": {
+    "path": "0,0,0,0,0,0,0,1,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchActivity"
+  },
+  "支付宝_余额页面_转账_click": {
+    "path": "0,0,2,0,0,1,1,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "美团_酒店民宿页面_当前位置_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,2,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity"
+  },
+  "京东_优惠券页面_查看优惠券情况_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.mycoupon.mvp.view.activity.CouponActivity"
+  },
+  "qq音乐_专辑收藏页面_返回_click": {
+    "path": "0,0,0,1,1,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_通讯录联系人详情页面_往来邮件_click": {
+    "path": "0,0,0,0,0,0,0,2,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts2.ContactDetailActivity"
+  },
+  "高德_查公交页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_公交地铁页面_点击输入终点_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,1,0,1,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_歌手歌曲页面_点击专辑_click": {
+    "path": "0,0,0,1,3,5,1,0,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_驾车页面_点击驾车轨迹_click": {
+    "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,7,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_个人页面_我的_click": {
+    "path": "0,0,0,0,0,1,1,4,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq音乐_热门直播详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,1,4,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.mlive.framework.ui.LivePagerActivity"
+  },
+  "京东_待付款页面_查看待付款订单_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity"
+  },
+  "支付宝_收钱页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.payee.ui.PayeeQRActivity"
+  },
+  "qq音乐_歌手视频页面_点击专辑_click": {
+    "path": "0,0,0,1,3,5,1,0,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_AR页面_返回_click": {
+    "path": "0,0,0,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "高德_公交搜索结果详情页面_路线_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,2,0,0,6,0,0,0,0,0,0,0,1,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_通讯录联系人往来邮件详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivityl"
+  },
+  "美团_酒店民宿订单页面_查看订单_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity"
+  },
+  "高德_搜索结果页面_选择搜索结果_select": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,3,2,0,2,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_首页_点击我的_click": {
+    "path": "0,0,0,2,0,2,4",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_本地下载节目详情页面_点击本地歌曲_click": {
+    "path": "0,0,0,1,1,1,0,0,1,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_搜索打车页面_开始打车_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_星标邮件页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "qq邮箱_星标邮件写邮件页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "支付宝_公交码页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "支付宝_个人页面_消息_click": {
+    "path": "0,0,0,0,0,1,1,3,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "美团_刷视频页面_刷视频_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "京东_服务通知页面_点击清除消息_click": {
+    "path": "0,0,0,2,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_颜值直播页面_点击音乐_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_搜索页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.meituan.search.home.SearchActivity"
+  },
+  "支付宝_个人页面_账单_click": {
+    "path": "0,0,0,0,0,0,0,0,3,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "美团_扫码页面_扫码_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "京东_优惠促销页面_点击服务通知_click": {
+    "path": "0,0,0,3,1,0,0,0,2,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_音乐直播页面_返回_click": {
+    "path": "0,0,0,1,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_荷包相册页面_返回_click": {
+    "path": "0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.beehive.photo.ui.PhotoSelectActivity"
+  },
+  "支付宝_卡包页面_证件_click": {
+    "path": "0,0,0,2,0,0,1,0,1,0,0,3,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "美团_外卖结果速度优先详情页面_点外卖_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity"
+  },
+  "qq音乐_最近播放页面_选择歌单播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_退换处理中页面_查看退换处理中订单_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "支付宝_转到银行卡页面_姓名_type": {
+    "path": "0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToCardFormCubeActivity"
+  },
+  "qq邮箱_首页_点击搜索框_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,2,0,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "支付宝_荷包扫码页面_荷包扫码_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "qq音乐_歌手视频页面_点击歌曲_click": {
+    "path": "0,0,0,1,3,5,1,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_余额页面_提现_click": {
+    "path": "0,0,1,0,2,0,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_识物页面_识动物_click": {
+    "path": "0,0,0,1,1,1,0,0,5,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "高德_公交地铁路线信息详情页面_开始导航_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_公交周边信息页面_查看周边信息_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_出行页面_地铁_click": {
+    "path": "0,0,0,1,0,0,0,1,1,0,3,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "高德_限行查询页面_输入查找城市_type": {
+    "path": "0,0,0,0,6,0,0,0,0,1,0,1,0,0,1,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_公交搜索结果页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,1,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_路线信息页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_待付款页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,1,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity"
+  },
+  "支付宝_扫一扫页面_收付款_click": {
+    "path": "0,0,0,1,5,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "高德_公交导航页面_返回_click": {
+    "path": ",0,0,0,6,0,0,2,0,0,1,0,0,2,2,1,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_听书飙升榜页面_点击会员榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_银行卡实际转账页面_确认转账_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToCardConfirmCubeActivity"
+  },
+  "京东_搜索结果详情页面_客服_click": {
+    "path": "0,0,0,0,0,7,1,0,1,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.productdetail.ProductDetailActivity"
+  },
+  "qq邮箱_首页_草稿箱_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,16",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "qq邮箱_草稿箱页面_筛选邮件_select": {
+    "path": "0,0,0,0,0,0,0,0,1,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "支付宝_账单页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "京东_交易物流页面_点击我的预约_click": {
+    "path": "0,0,0,2,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_个人详情页面_点击首页_click": {
+    "path": "0,0,0,2,0,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_个人详情页面_点击最近播放_click": {
+    "path": "0,0,0,1,0,1,4,0,1,0,0,4,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_会员卡页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "qq音乐_播放歌曲页面_点击评论_click": {
+    "path": "0,0,0,0,2,1,0,1,0,11,5,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.business.playernew.view.NewPlayerActivity"
+  },
+  "支付宝_扫一扫页面_扫码_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "qq音乐_本地下载详情页面_选择歌曲播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_购物车页面_查看购物车信息_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "京东_我的页面_点击京豆_click": {
+    "path": "0,0,0,1,0,0,0,0,0,3,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "支付宝_荷包付款码页面_返回_click": {
+    "path": "0,0,0,1,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.antui.dialog.AUProgressDialog"
+  },
+  "美团_搜索外卖页面_返回_click": {
+    "path": "0,0,0,0,0,0,1,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "京东_搜索结果详情页面_店铺_click": {
+    "path": "0,0,0,0,0,7,1,0,0,0,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.productdetail.ProductDetailActivity"
+  },
+  "美团_搜索结果页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.meituan.search.result.SearchResultActivity"
+  },
+  "qq音乐_听书会员榜页面_点击热播榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_退换申请记录页面_点击处理中_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "qq音乐_嗨聊直播页面_点击颜值_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,3,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_扫一扫页面_AR_click": {
+    "path": "0,0,0,1,7,2,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "qq音乐_音乐直播详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,1,4,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.mlive.framework.ui.LivePagerActivity"
+  },
+  "qq邮箱_联系人详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "qq邮箱_联系人往来邮件详情页面_阅读邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "qq音乐_热门直播详情页面_刷直播_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.mlive.framework.ui.LivePagerActivity"
+  },
+  "qq音乐_听书飙升榜页面_选择飙升书目_select": {
+    "path": "0,0,0,1,3,3,2,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_首页_驾车_click": {
+    "path": "0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,1,0,0,0,2,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_草稿箱邮件详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "京东_首页_点击购物车_click": {
+    "path": "0,0,0,3,0,0,3,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "美团_消息页面_点击首页_click": {
+    "path": "0,0,0,0,0,2,2,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "支付宝_首页_首页_click": {
+    "path": "0,0,0,0,0,1,1,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "支付宝_转账页面_点击输入框_click": {
+    "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,6",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq邮箱_已删除邮件详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "支付宝_荷包付款码页面_展示付款码_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.antui.dialog.AUProgressDialog"
+  },
+  "京东_优惠促销页面_点击客服消息_click": {
+    "path": "0,0,0,3,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_地铁码页面_展示地铁码_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "qq音乐_听书热榜页面_返回_click": {
+    "path": "0,0,0,1,2,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_外卖结果综合排序详情页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity"
+  },
+  "qq音乐_音乐直播页面_点击颜值_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,3,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_浏览记录页面_查看浏览记录_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "美团_刷视频页面_点击我的_click": {
+    "path": "0,0,0,0,0,2,2,4",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "qq音乐_哼唱识别页面_返回_click": {
+    "path": "0,0,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.recognizekt.RecognizeActivity"
+  },
+  "支付宝_余额页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_相册页面_选择图片_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.beehive.photo.ui.PhotoSelectActivity"
+  },
+  "支付宝_转给自己页面_转出金额_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,4,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "美团_外卖结果速度优先页面_速度优先_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,2,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "高德_搜索打车页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,2,2,6,2,1,1,0,1,1,1,0,0,0,3,0,0,0,2",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_个人页面_生活_click": {
+    "path": "0,0,0,0,0,1,1,2,2",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq邮箱_联系人详情页面_写邮件_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "支付宝_识物页面_翻译_click": {
+    "path": "0,0,0,1,1,1,0,0,2,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "支付宝_汽车票页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "qq音乐_歌手页面_返回_click": {
+    "path": "0,0,0,1,2,1,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_外卖结果速度优先页面_销量优先_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "高德_驾车页面_停车推荐_click": {
+    "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,5",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_星标邮件详情页面_阅读邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "高德_公交路线信息详情页面_开始导航_human": {},
+  "qq邮箱_联系人往来邮件详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "美团_首页_点击酒店民宿_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "京东_商品收藏页面_查看商品收藏情况_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.favorites.FavoListFragmentActivity"
+  },
+  "高德_停车推荐页面_选择合适停车场前往_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_公交搜索结果详情页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,2,1,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_输入终点页面_选择终点位置_select": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_听书热榜页面_点击飙升榜_click": {
+    "path": "0,0,0,1,2,3,1,0,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_搜索结果详情页面_购买商品_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.productdetail.ProductDetailActivity"
+  },
+  "美团_位置搜索页面_输入地理位置_type": {
+    "path": "0,0,0,0,0,0,0,0,0,1,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.mrn.container.MRNBaseActivity"
+  },
+  "京东_我的页面_点击店铺关注_click": {
+    "path": "0,0,0,1,0,0,0,0,0,3,3,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "支付宝_识物页面_识植物_click": {
+    "path": "0,0,0,1,1,1,0,0,4,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "qq音乐_音乐直播页面_筛选直播_select": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,3",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_荷包转入页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq音乐_播放歌曲页面_收藏/取消收藏_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.business.playernew.view.NewPlayerActivity"
+  },
+  "qq音乐_歌手专辑页面_点击歌曲_click": {
+    "path": "0,0,0,1,3,5,1,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_嗨聊直播页面_返回_click": {
+    "path": "0,0,0,1,0,1,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_酒店民宿详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,5,0,1,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.hotel.reuse.detail.HotelPoiDetailActivity"
+  },
+  "高德_公交搜索结果详情页面_分享位置_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_搜索结果详情页面_下订单_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity"
+  },
+  "京东_互动消息页面_点击京东快讯_click": {
+    "path": "0,0,0,3,1,0,0,0,4,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_商品收藏页面_返回_click": {
+    "path": "0,0,0,0,1,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.favorites.FavoListFragmentActivity"
+  },
+  "支付宝_打车页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "qq音乐_颜值直播页面_点击嗨聊_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,5,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_外卖结果速度优先页面_综合排序_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "qq音乐_嗨聊直播详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,1,4,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tme.mlive.framework.ui.LivePagerActivity"
+  },
+  "支付宝_首页_收付款_click": {
+    "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,1,1,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq音乐_飙升书目详情页面_返回_click": {
+    "path": "0,0,0,1,3,0,1,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_卡包页面_会员卡_click": {
+    "path": "0,0,0,2,0,0,1,0,1,0,0,1,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "京东_店铺页面_返回_click": {
+    "path": "0,0,0,1,1,4,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.jshop.jshop.JshopMainShopActivity"
+  },
+  "qq音乐_直播页面_点击雷达_click": {
+    "path": "0,0,0,2,0,2,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_收钱页面_展示收款码_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.payee.ui.PayeeQRActivity"
+  },
+  "美团_刷视频页面_点击消息_click": {
+    "path": "0,0,0,0,0,2,2,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "qq邮箱_首页_已删除_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,17",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "京东_浏览记录页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "qq音乐_歌曲收藏页面_点击歌曲_click": {
+    "path": "0,0,0,1,1,2,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_汽车票页面_购买汽车票_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "qq音乐_歌曲评论页面_发表评论_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusiccommon.hybrid.CommentHalfScreenActivity"
+  },
+  "美团_扫药品页面_点击发现_click": {
+    "path": "0,0,0,0,0,3,1,0,4,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "qq音乐_新品书目详情页面_播放书目_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_转到银行卡页面_下一步_click": {
+    "path": "0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToCardFormCubeActivity"
+  },
+  "qq音乐_听书新品榜页面_选择新品书目_select": {
+    "path": "0,0,0,1,3,3,2,3,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_收付款页面_展示付款码_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.onsitepay.merge.OnsitepayActivity"
+  },
+  "支付宝_转到支付宝页面_对方账户_type": {
+    "path": "0,0,0,1,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToAccountInputSearchActivity_"
+  },
+  "qq邮箱_首页_通讯录_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,9",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "支付宝_转给他人页面_确认转出_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "美团_搜索结果页面_选择搜索结果_select": {
+    "path": "0,0,0,0,0,0,1,0,1,0,2,3,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.meituan.search.result.SearchResultActivity"
+  },
+  "支付宝_分期付款页面_返回_click": {
+    "path": "0,0,0,2,1,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_首页_支付宝荷包_click": {
+    "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,1,1,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "高德_公交打车页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,2,2,6,2,1,1,0,1,1,1,0,0,0,3,0,0,0,2",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_首页_点击搜索框_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "支付宝_个人页面_理财_click": {
+    "path": "0,0,0,0,0,1,1,1,3",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq邮箱_已发送页面_筛选邮件_select": {
+    "path": "0,0,0,0,0,0,0,0,1,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "高德_公交周边信息页面_返回_click": {
+    "path": "0,0,0,0,3,0,2,2,0,0,0,1,2,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "支付宝_转账页面_转其他APP_click": {
+    "path": "0,0,0,2,0,0,0,2,0,1,0,0,0,9",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_荷包付款码页面_扫一扫付款_click": {
+    "path": "0,0,0,1,1,0,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.antui.dialog.AUProgressDialog"
+  },
+  "美团_消息页面_点击我的_click": {
+    "path": "0,0,0,0,0,2,2,4",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "京东_交易物流页面_点击京东快讯_click": {
+    "path": "0,0,0,3,1,0,0,0,4,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_首页_点击直播_click": {
+    "path": "0,0,0,2,0,2,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_交易物流页面_点击清除消息_click": {
+    "path": "0,0,0,2,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_出行页面_骑行_click": {
+    "path": "0,0,0,1,0,0,0,1,1,0,7,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "高德_导航页面_前往目的地_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_首页_已发送_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,15",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "qq音乐_嗨聊直播页面_筛选直播_select": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,3",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_听书飙升榜页面_返回_click": {
+    "path": "0,0,0,1,2,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_实际转账页面_转账金额_type": {
+    "path": "0,0,0,1,1,0,0,1,1,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToAccountConfirmMainActivityNew"
+  },
+  "京东_京东快讯页面_点击客服消息_click": {
+    "path": "0,0,0,3,0,0,0,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_个人详情页面_点击收藏_click": {
+    "path": "0,0,0,1,0,1,4,0,1,0,0,4,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_写邮件页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "支付宝_转账搜索页面_输入支付宝账户_type": {
+    "path": "0,0,0,0,1,1,0,0,0,1,2",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.businesscommon.globalsearch.ui.MainSearchActivity"
+  },
+  "支付宝_卡包页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "高德_实时公交搜索页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,0,0,4,0,2,1,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_扫药品页面_点击扫码_click": {
+    "path": "0,0,0,0,0,3,1,0,4,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "高德_路线信息页面_选择合适路线信息_select": {
+    "path": "0,0,0,0,6,0,0,3,0,0,0,1,0,0,0,0,0,0,3,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_个人详情页面_点击雷达_click": {
+    "path": "0,0,0,2,0,2,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_客服页面_联系客服_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.icssdk.v2.ui.activity.ActivityChattingNew"
+  },
+  "qq音乐_歌手专辑页面_返回_click": {
+    "path": "0,0,0,1,3,4,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_个人订单详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,2,2,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.msc.modules.container.MSCActivity"
+  },
+  "高德_搜索页面_点击搜索_click": {
+    "path": "0,0,0,0,6,0,0,1,0,0,0,0,1,0,3,0,0,2,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_已删除写邮件页面_写邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "京东_退换页面_查看退换订单_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "京东_退换待评价页面_查看退换待评价订单_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "高德_公交地铁页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_写邮件页面_写邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.compose.ComposeMailActivity"
+  },
+  "京东_我的页面_点击商品收藏_click": {
+    "path": "0,0,0,1,0,0,0,0,0,3,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "高德_周边信息页面_返回_click": {
+    "path": "0,0,0,0,3,0,2,2,0,0,0,1,2,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_打车搜索页面_筛选搜索结果_select": {
+    "path": "0,0,0,0,6,0,0,2,0,1,0,0,2,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_我的订单页面_查看全部订单_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity"
+  },
+  "支付宝_机票页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "京东_京东拍照页面_对准商品自动识别_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.scan.lib.zxing.client.android.NewCaptureActivity"
+  },
+  "qq音乐_本地下载视频详情页面_点击节目_click": {
+    "path": "0,0,0,1,1,1,0,0,1,0,4,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_会员卡页面_查看会员卡_human": {
+    "path": "NO_NEED",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63"
+  },
+  "支付宝_余额充值页面_充值金额_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,2,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "美团_发现页面_点击扫药品_click": {
+    "path": "0,0,0,0,0,3,1,0,4,0,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.scan.NewArActivity"
+  },
+  "高德_导航页面_返回_click": {
+    "path": ",0,0,0,6,0,0,2,0,0,1,0,0,2,2,1,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_已删除邮件详情页面_阅读邮件_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "美团_个人详情页面_点击视频_click": {
+    "path": "0,0,0,0,0,2,2,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "美团_外卖结果综合排序页面_速度优先_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,2,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "qq音乐_歌手页面_选择歌手_select": {
+    "path": "0,0,0,1,2,2,0,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_专辑收藏页面_选择专辑播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_荷包转出页面_转给他人_click": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,0,2,1,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "支付宝_12306页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "qq邮箱_通讯录联系人往来邮件页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "高德_公交地铁路线信息详情页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,4",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_我的页面_点击首页_click": {
+    "path": "0,0,0,3,0,0,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "高德_限行查询页面_筛选查找城市_select": {
+    "path": "0,0,0,0,6,0,0,0,0,1,0,1,1,0,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq音乐_搜索页面_输入搜索关键词_type": {
+    "path": "0,0,0,1,1,2,0,2,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_荷包详情页面_付款码_click": {
+    "path": "0,0,0,1,0,2,0,2,0,2,0,0,1,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "高德_公交路线信息详情页面_返回_click": {},
+  "qq音乐_哼唱识别页面_哼唱识别_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.recognizekt.RecognizeActivity"
+  },
+  "高德_公交搜索结果详情页面_打车_click": {
+    "path": "0,0,0,0,6,1,0,2,0,0,1,8,0,1,3",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_联系人详情页面_往来邮件_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.contacts.ContactsFragmentActivity"
+  },
+  "京东_互动消息页面_点击服务通知_click": {
+    "path": "0,0,0,3,1,0,0,0,2,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_歌曲评论页面_查看评论_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusiccommon.hybrid.CommentHalfScreenActivity"
+  },
+  "qq音乐_本地下载节目详情页面_选择节目播放_human": {
+    "path": "NO_NEED",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_首页_理财_click": {
+    "path": "0,0,0,0,0,1,1,1,3",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq邮箱_已发送页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "京东_优惠促销页面_点击互动消息_click": {
+    "path": "0,0,0,3,1,0,0,0,3,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_歌手歌曲页面_返回_click": {
+    "path": "0,0,0,1,3,4,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_通行费助手页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,0,0,1,0,0,2,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_首页_点击消息_click": {
+    "path": "0,0,0,0,0,2,2,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "京东_首页_点击消息_click": {
+    "path": "0,0,0,1,0,1,0,6",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "qq音乐_本地下载详情页面_点击节目_click": {
+    "path": "0,0,0,1,1,1,0,0,1,0,4,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_位置搜索页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,1",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.mrn.container.MRNBaseActivity"
+  },
+  "高德_查公交页面_输入公交路线、站点_type": {
+    "path": "0,0,0,0,6,0,0,1,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_打车页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,0,2,0,0,0,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_消息页面_点击交易物流_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_消息页面_点击清除消息_click": {
+    "path": "0,0,0,2,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_首页_出行_click": {
+    "path": "0,0,0,0,0,0,0,0,1,2,1,0,0,1,2,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "支付宝_地铁码页面_返回_click": {
+    "path": "0,0,0,1,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity"
+  },
+  "京东_搜索页面_输入搜索内容_type": {
+    "path": "0,0,0,0,0,1,0,0,1,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.search.view.Activity.SearchActivity"
+  },
+  "qq音乐_音乐直播页面_点击热门_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "美团_刷视频页面_点击首页_click": {
+    "path": "0,0,0,0,0,2,2,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "京东_互动消息页面_点击优惠促销_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_荷包转入页面_转入金额_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,1,2,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "qq邮箱_已删除页面_筛选邮件_select": {
+    "path": "0,0,0,0,0,0,0,0,1,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "美团_外卖结果速度优先详情页面_返回_click": {
+    "path": "0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity"
+  },
+  "支付宝_识物页面_识万物_click": {
+    "path": "0,0,0,1,1,1,0,0,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "高德_实时公交搜索结果页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,0,1,1,4,1,0,0,1,0,0,0,0,0,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_京东快讯页面_点击清除消息_click": {
+    "path": "0,0,0,2,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_专辑收藏页面_点击歌单_click": {
+    "path": "0,0,0,1,1,2,0,0,2",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_京东快讯页面_点击交易物流_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "美团_搜索外卖页面_点击搜索_click": {
+    "path": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "美团_搜索外卖页面_搜索外卖_type": {
+    "path": "0,0,0,0,0,0,1,1,1,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "支付宝_首页_生活_click": {
+    "path": "0,0,0,0,0,1,1,2,2",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "qq音乐_直播页面_点击我的_click": {
+    "path": "0,0,0,2,0,2,4",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_退换页面_点击申请记录_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "支付宝_首页_扫一扫_click": {
+    "path": "0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,1,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.eg.android.AlipayGphone.AlipayLogin"
+  },
+  "支付宝_荷包扫码页面_返回_click": {
+    "path": "0,0,0,1,2,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.scan.as.main.MainCaptureActivity"
+  },
+  "qq音乐_搜索页面_点击歌手_click": {
+    "path": "0,0,0,1,1,2,2,0,0,0,0,2,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_搜索页面_输入搜索内容_type": {
+    "path": "0,0,0,0,6,0,0,1,0,0,0,0,1,0,3,0,0,1,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_外卖结果销量优先详情页面_点外卖_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.restaurant.poicontainer.WMRestaurantActivity"
+  },
+  "qq音乐_本地下载详情页面_点击视频_click": {
+    "path": "0,0,0,1,1,1,0,0,1,0,2,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq音乐_歌单收藏页面_点击专辑_click": {
+    "path": "0,0,0,1,1,2,0,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_邮件详情页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.activity.readmail.ReadMailActivity"
+  },
+  "京东_交易物流页面_返回_click": {
+    "path": "0,0,0,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "qq音乐_个人详情页面_点击本地_click": {
+    "path": "0,0,0,1,0,1,4,0,1,0,0,4,0,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "支付宝_收付款页面_分期付款_click": {
+    "path": "0,0,0,1,1,0,1,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.onsitepay.merge.OnsitepayActivity"
+  },
+  "高德_停车推荐页面_返回_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,0",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "美团_消息页面_查看消息_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "qq音乐_颜值直播页面_点击热门_click": {
+    "path": "0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_驾车路线信息页面_查看路线信息_human": {
+    "path": "NO_NEED",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "京东_京豆页面_查看京豆收支明细_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.common.jdreactFramework.activities.JDReactNativeCommonActivity"
+  },
+  "美团_外卖结果综合排序页面_筛选外卖_select": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "qq音乐_首页_点击搜索框_click": {
+    "path": "0,0,0,1,0,1,0,0,0,0,6,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "qq邮箱_已删除页面_写邮件_click": {
+    "path": "0,0,0,0,0,0,0,0,0,2",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "京东_首页_点击京东拍照_click": {
+    "path": "0,0,0,1,0,1,0,7,0,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "qq邮箱_搜索页面_取消_click": {
+    "path": "0,0,0,0,0,0,0,0,1,0,2,0,1",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.search.SearchActivity"
+  },
+  "京东_消息页面_返回_click": {
+    "path": "0,0,0,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_服务通知页面_点击优惠促销_click": {
+    "path": "0,0,0,3,1,0,0,0,5,1",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "京东_首页_点击搜索框_click": {
+    "path": "0,0,0,1,0,1,0,7,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "美团_个人订单详情页面_查看个人订单_human": {
+    "path": "NO_NEED",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.msc.modules.container.MSCActivity"
+  },
+  "支付宝_转到支付宝页面_返回_click": {
+    "path": "0,0,0,0,0,0,0",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToAccountInputSearchActivity_"
+  },
+  "高德_驾车页面_通行费助手_click": {
+    "path": "0,0,0,0,6,1,0,3,0,2,0,1,0,0,1,8,0,7",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "qq邮箱_收件箱页面_筛选邮件_select": {
+    "path": "0,0,0,0,0,0,0,0,1,0",
+    "package": "com.tencent.androidqqmail",
+    "page": "com.tencent.qqmail.fragment.base.MailFragmentActivity"
+  },
+  "京东_扫啊扫页面_识别条形码/二维码_human": {
+    "path": "NO_NEED",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.scan.lib.zxing.client.android.NewCaptureActivity"
+  },
+  "支付宝_转给他人页面_转出理由_type": {
+    "path": "0,0,0,2,0,0,0,1,0,1,0,0,7,0,0,0,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.nebulax.xriver.activity.XRiverActivity"
+  },
+  "京东_消息清除页面_返回_click": {
+    "path": "0,0,0,2,0,0",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "支付宝_银行卡实际转账页面_转账金额_type": {
+    "path": "0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1",
+    "package": "com.eg.android.AlipayGphone",
+    "page": "com.alipay.mobile.transferapp.ui.TFToCardConfirmCubeActivity"
+  },
+  "美团_外卖结果速度优先页面_返回_click": {
+    "path": "0,0,0,0,0,0,1,1,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "美团_外卖结果销量优先页面_速度优先_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,2,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "美团_外卖结果销量优先页面_综合排序_click": {
+    "path": "0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2",
+    "package": "com.sankuai.meituan",
+    "page": "com.sankuai.waimai.business.search.ui.GlobalSearchActivity"
+  },
+  "qq音乐_歌手专辑详情页面_返回_click": {
+    "path": "0,0,0,1,4,0,1,1",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "京东_购物车页面_点击我的_click": {
+    "path": "0,0,0,3,0,0,4,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "京东_我的页面_点击待评价_click": {
+    "path": "0,0,0,1,0,0,0,0,0,2,3,0,2",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jingdong.app.mall.MainFrameActivity"
+  },
+  "qq音乐_音乐榜单排行页面_返回_click": {
+    "path": "0,0,0,1,3,2,0,0",
+    "package": "com.tencent.qqmusic",
+    "page": "com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "高德_驾车页面_点击输入终点_click": {
+    "path": "0,0,0,0,6,0,0,2,0,1,1,1,0,1,1",
+    "package": "com.autonavi.minimap",
+    "page": "com.autonavi.map.activity.NewMapActivity"
+  },
+  "高德_限行查询结果页面_返回_click": {},
+  "京东_京东快讯页面_点击我的预约_click": {
+    "path": "0,0,0,2,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  },
+  "美团_刷视频页面_返回_click": {
+    "path": "0,0,0,0,0,0,0,0",
+    "package": "com.sankuai.meituan",
+    "page": "com.meituan.android.pt.homepage.activity.MainActivity"
+  },
+  "京东_消息页面_点击我的预约_click": {
+    "path": "0,0,0,2,0,3",
+    "package": "com.jingdong.app.mall",
+    "page": "com.jd.lib.message.messagecenter2.MessageCenterMainActivity"
+  }
+}

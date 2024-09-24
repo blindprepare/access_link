@@ -1,0 +1,21 @@
+{
+  "pageName": "发票页面",
+  "page": "com.alipay.mobile.alipassapp.alkb.kb.ALPMainPage63",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,0,0"
+    },
+    {
+      "action": "查看发票",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "发票页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

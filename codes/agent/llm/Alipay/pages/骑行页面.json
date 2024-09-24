@@ -1,0 +1,17 @@
+{
+  "pageName": "骑行页面",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页"
+    },
+    {
+      "action": "扫码开锁",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "扫码开锁页面"
+    }
+  ]
+}

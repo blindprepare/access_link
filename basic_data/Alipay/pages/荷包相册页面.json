@@ -1,0 +1,21 @@
+{
+  "pageName": "荷包相册页面",
+  "page": "com.alipay.mobile.beehive.photo.ui.PhotoSelectActivity",
+  "package": "com.eg.android.AlipayGphone",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包扫码页面",
+      "path": "0,0,0,0,0"
+    },
+    {
+      "action": "选择图片",
+      "type": "人为动作",
+      "parameter": "无需参数",
+      "nextPage": "荷包相册页面",
+      "path": "NO_NEED"
+    }
+  ]
+}

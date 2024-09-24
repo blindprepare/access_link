@@ -1,0 +1,28 @@
+{
+  "pageName": "搜索页面",
+  "page": "com.jd.lib.search.view.Activity.SearchActivity",
+  "package": "com.jingdong.app.mall",
+  "actionList": [
+    {
+      "action": "返回",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "首页",
+      "path": "0,0,0,0,0,1,0,0,0"
+    },
+    {
+      "action": "输入搜索内容",
+      "type": "输入动作",
+      "parameter": "搜索内容",
+      "nextPage": "搜索页面",
+      "path": "0,0,0,0,0,1,0,0,1,0,0"
+    },
+    {
+      "action": "点击搜索",
+      "type": "点击动作",
+      "parameter": "无需参数",
+      "nextPage": "搜索结果页面",
+      "path": "0,0,0,0,0,1,0,0,1,2"
+    }
+  ]
+}
